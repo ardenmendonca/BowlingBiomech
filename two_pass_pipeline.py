@@ -365,14 +365,7 @@ def _step3_groq(txt_path: str, video_path: str, api_key: str) -> str:
 
 
 def step3_llm_analysis(txt_path: str, video_path: str, provider: str = "gemini") -> str:
-    """
-    Sends deliveries txt to the chosen LLM provider.
-    provider: "gemini" | "groq"
-    - Retries on transient 429 rate limits (waits the suggested delay)
-    - Falls back through model chain when quota is exhausted
-    Returns path to saved report, or None on failure.
-    """
-    print(f"\n  Step 3: Sending to Gemini for analysis...", flush=True)
+    print(f"\n  Step 3: Sending to {provider.upper()} for analysis...", flush=True)
 
     api_key = load_api_key(provider)
     if not api_key:
