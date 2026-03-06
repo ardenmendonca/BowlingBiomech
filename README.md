@@ -1,4 +1,4 @@
-# 🏏 Cricket Bowling Pose Analysis
+# Bowling throw Analysis
 
 MediaPipe-based biomechanical analysis of cricket bowling. Detects deliveries, extracts joint angles per phase, and generates LLM coaching reports.
 
