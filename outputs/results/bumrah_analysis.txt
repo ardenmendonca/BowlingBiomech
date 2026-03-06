@@ -1,0 +1,145 @@
+============================================================
+CRICKET BOWLING ANALYSIS
+Video:      bumrah.mp4
+Duration:   8.23 min
+Detection:  79.7%
+Deliveries: 7  (7 high / 0 medium / 0 low confidence)
+Threshold:  0.1176 (auto-calibrated)
+Generated:  2026-03-05T11:28:34.617130
+============================================================
+
+DELIVERY 1  t=11.5s  rel=0.979  confidence=high ✅
+  Phases: delivery_stride, follow_through, load, release, run_up
+  Wrist: peak=0.155  baseline=0.091  rise=0.064
+  At release:
+    right_elbow                 155.3°
+    left_elbow                  176.8°
+    right_shoulder              155.8°
+    left_shoulder               107.4°
+    right_knee                  156.0°
+    left_knee                   126.0°
+    right_hip                   122.9°
+    left_hip                    139.8°
+    trunk_lean                  112.0°
+  Progression (load→release):
+    left_elbow                   +8.4° ↑
+    left_shoulder               -36.0° ↓
+    right_knee                  +33.0° ↑
+    left_knee                   -16.6° ↓
+    trunk_lean                  -28.1° ↓
+
+DELIVERY 2  t=49.6s  rel=0.839  confidence=high ✅
+  Phases: delivery_stride, follow_through, load, release, run_up
+  Wrist: peak=0.13  baseline=-0.131  rise=0.261
+  At release:
+    right_elbow                 136.6°
+    right_shoulder              160.0°
+    right_knee                  173.9°
+    left_knee                   153.4°
+    right_hip                   153.2°
+    left_hip                    111.4°
+    trunk_lean                   64.6°
+  Progression (load→release):
+    right_shoulder              +95.4° ↑
+    right_knee                  +17.0° ↑
+    left_knee                   -23.5° ↓
+    trunk_lean                   +6.2° ↑
+
+DELIVERY 4  t=231.3s  rel=0.988  confidence=high ✅
+  Phases: delivery_stride, follow_through, load, release, run_up
+  Wrist: peak=0.133  baseline=-0.125  rise=0.258
+  At release:
+    right_elbow                 177.4°
+    left_elbow                   87.7°
+    right_shoulder               98.5°
+    left_shoulder               102.4°
+    right_knee                   27.1°
+    left_knee                    78.1°
+    right_hip                    97.2°
+    left_hip                    145.8°
+    trunk_lean                   38.0°
+  Progression (load→release):
+    right_elbow                  +7.5° ↑
+    right_shoulder              -23.8° ↓
+    left_shoulder               +33.2° ↑
+    right_knee                 -100.0° ↓
+    left_knee                   -38.2° ↓
+    trunk_lean                  -13.7° ↓
+
+DELIVERY 5  t=252.7s  rel=0.942  confidence=high ✅
+  Phases: delivery_stride, follow_through, load, release, run_up
+  Wrist: peak=0.131  baseline=0.064  rise=0.067
+  At release:
+    right_elbow                 168.8°
+    left_elbow                  175.1°
+    right_shoulder              164.2°
+    left_shoulder               154.0°
+    right_knee                  117.5°
+    left_knee                   154.5°
+    right_hip                    98.1°
+    left_hip                    166.1°
+    trunk_lean                   29.4°
+  Progression (load→release):
+    left_elbow                  +10.9° ↑
+    left_shoulder               +26.8° ↑
+    right_knee                  -15.8° ↓
+    left_knee                   +53.4° ↑
+    trunk_lean                 -114.6° ↓
+
+DELIVERY 6  t=272.0s  rel=0.959  confidence=high ✅
+  Phases: load, release, run_up
+  Wrist: peak=0.151  baseline=0.106  rise=0.045
+  At release:
+    right_elbow                 146.8°
+    left_elbow                  118.7°
+    right_shoulder              141.4°
+    left_shoulder                52.4°
+    right_knee                   85.6°
+    left_knee                   131.8°
+    right_hip                    86.8°
+    left_hip                    115.2°
+    trunk_lean                   87.3°
+  Progression (load→release):
+    right_elbow                 -24.1° ↓
+    left_elbow                  -14.2° ↓
+    right_shoulder              -35.4° ↓
+    left_shoulder                +0.0° ↓
+    right_knee                  +71.6° ↑
+    left_knee                   -40.5° ↓
+    trunk_lean                  -29.0° ↓
+
+DELIVERY 7  t=302.2s  rel=0.956  confidence=high ✅
+  Phases: delivery_stride, follow_through, load, release, run_up
+  Wrist: peak=0.202  baseline=-0.249  rise=0.451
+  At release:
+    right_elbow                 175.9°
+    left_elbow                   72.9°
+    right_shoulder              114.6°
+    left_shoulder               109.2°
+    right_knee                   79.9°
+    left_knee                    72.4°
+    right_hip                   109.2°
+    left_hip                    169.7°
+    trunk_lean                   60.3°
+  Progression (load→release):
+    right_elbow                 +21.0° ↑
+    right_shoulder              +70.3° ↑
+    right_knee                   -7.1° ↓
+    trunk_lean                  -20.6° ↓
+
+DELIVERY 8  t=463.63s  rel=0.737  confidence=high ✅
+  Phases: delivery_stride, follow_through, load, release, run_up
+  Wrist: peak=0.151  baseline=-0.098  rise=0.25
+  At release:
+    right_elbow                 178.7°
+    right_shoulder              136.8°
+    left_knee                   145.6°
+    left_hip                    172.3°
+    trunk_lean                   77.0°
+  Progression (load→release):
+    right_elbow                 +98.2° ↑
+    left_elbow                  +56.9° ↑
+    right_shoulder              +45.8° ↑
+    left_shoulder                -7.4° ↓
+    left_knee                    +8.7° ↑
+    trunk_lean                  +14.8° ↑

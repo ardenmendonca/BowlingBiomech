@@ -1,0 +1,64 @@
+============================================================
+CRICKET BOWLING ANALYSIS
+Video:      steyln.mp4
+Deliveries: 4
+Generated:  2026-03-06T08:11:57.039053
+============================================================
+
+DELIVERY 2  t=12.84s  rel=0.631 ✅
+  Phases: load, release, run_up, delivery_stride, follow_through
+  At release:
+    right_elbow                 129.5°
+    left_elbow                  139.7°
+    right_shoulder               45.4°
+    left_shoulder                26.5°
+    trunk_lean                   76.8°
+  Progression (load→release):
+    right_elbow                 -11.2° ↓
+    left_elbow                  +20.2° ↑
+    right_shoulder              -79.8° ↓
+    left_shoulder               -47.2° ↓
+    trunk_lean                  -30.2° ↓
+
+DELIVERY 3  t=28.96s  rel=0.928 ✅
+  Phases: release, load, run_up, delivery_stride
+  At release:
+    right_elbow                 173.8°
+    left_elbow                  175.2°
+    right_shoulder              164.4°
+    left_shoulder               152.2°
+    right_knee                  152.5°
+    left_knee                    13.6°
+    right_hip                   161.3°
+    left_hip                     33.5°
+    trunk_lean                  150.9°
+  Progression (load→release):
+    right_elbow                 +11.6° ↑
+    left_elbow                  +22.9° ↑
+    right_shoulder             +107.4° ↑
+    left_shoulder               +97.3° ↑
+    right_knee                  -33.9° ↓
+    left_knee                   -79.2° ↓
+    trunk_lean                  +51.1° ↑
+
+DELIVERY 6  t=97.64s  rel=0.622 ✅
+  Phases: load, release, run_up, delivery_stride, follow_through
+  At release:
+    right_elbow                 128.3°
+    right_shoulder              150.9°
+    left_shoulder               133.6°
+    trunk_lean                   74.7°
+  Progression (load→release):
+    right_elbow                  -0.9° ↓
+    right_shoulder              +64.4° ↑
+    left_shoulder               +54.6° ↑
+    trunk_lean                  -28.3° ↓
+
+DELIVERY 7  t=129.64s  rel=0.572 ⚠️
+  Phases: load, release, run_up, delivery_stride, follow_through
+  At release:
+    right_elbow                 140.9°
+    right_shoulder               60.9°
+    trunk_lean                  152.1°
+  Progression (load→release):
+    trunk_lean                  +58.4° ↑

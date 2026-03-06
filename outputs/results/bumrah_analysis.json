@@ -1,0 +1,554 @@
+{
+  "video": "bumrah.mp4",
+  "fps": 30.0,
+  "duration_min": 8.23,
+  "detection_rate_pct": 79.7,
+  "total_deliveries": 7,
+  "confidence_breakdown": {
+    "high": 7,
+    "medium": 0,
+    "low": 0
+  },
+  "calibration": {
+    "threshold": 0.11757798178212238,
+    "gap_frames": 710,
+    "wrist_mean": 0.05828592592592592,
+    "wrist_std": 0.03952803723746431
+  },
+  "generated_at": "2026-03-05T11:28:34.617130",
+  "deliveries": [
+    {
+      "delivery": 1,
+      "t_sec": 11.5,
+      "release_rel": 0.979,
+      "confidence": "high",
+      "phases": [
+        "load",
+        "release",
+        "delivery_stride",
+        "follow_through",
+        "run_up"
+      ],
+      "release_angles": {
+        "right_elbow": 155.3,
+        "left_elbow": 176.8,
+        "right_shoulder": 155.8,
+        "left_shoulder": 107.4,
+        "right_knee": 156.0,
+        "left_knee": 126.0,
+        "right_hip": 122.9,
+        "left_hip": 139.8,
+        "trunk_lean": 112.0
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 144.0,
+          "left_elbow": 147.9,
+          "right_shoulder": 64.9,
+          "left_shoulder": 82.8,
+          "right_knee": 136.9,
+          "left_knee": 124.4,
+          "trunk_lean": 96.9
+        },
+        "load": {
+          "left_elbow": 163.8,
+          "left_shoulder": 145.1,
+          "right_knee": 116.2,
+          "left_knee": 147.2,
+          "trunk_lean": 131.7
+        },
+        "delivery_stride": {
+          "right_elbow": 167.2,
+          "right_shoulder": 156.3,
+          "left_knee": 156.2,
+          "trunk_lean": 86.8
+        },
+        "release": {
+          "right_elbow": 156.5,
+          "left_elbow": 172.2,
+          "right_shoulder": 151.3,
+          "left_shoulder": 109.1,
+          "right_knee": 149.2,
+          "left_knee": 130.6,
+          "trunk_lean": 103.6
+        },
+        "follow_through": {
+          "right_elbow": 164.3,
+          "left_elbow": 165.3,
+          "right_shoulder": 133.7,
+          "left_shoulder": 122.4,
+          "right_knee": 155.3,
+          "left_knee": 165.5,
+          "trunk_lean": 83.4
+        }
+      },
+      "progression": {
+        "left_elbow": 8.4,
+        "left_shoulder": -36.0,
+        "right_knee": 33.0,
+        "left_knee": -16.6,
+        "trunk_lean": -28.1
+      },
+      "wrist_signal": {
+        "peak": 0.155,
+        "baseline": 0.091,
+        "rise": 0.064
+      }
+    },
+    {
+      "delivery": 2,
+      "t_sec": 49.6,
+      "release_rel": 0.839,
+      "confidence": "high",
+      "phases": [
+        "load",
+        "release",
+        "delivery_stride",
+        "follow_through",
+        "run_up"
+      ],
+      "release_angles": {
+        "right_elbow": 136.6,
+        "right_shoulder": 160.0,
+        "right_knee": 173.9,
+        "left_knee": 153.4,
+        "right_hip": 153.2,
+        "left_hip": 111.4,
+        "trunk_lean": 64.6
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 162.9,
+          "left_elbow": 156.5,
+          "right_shoulder": 65.6,
+          "left_shoulder": 57.7,
+          "right_knee": 143.2,
+          "left_knee": 133.0,
+          "trunk_lean": 72.8
+        },
+        "load": {
+          "right_shoulder": 16.5,
+          "right_knee": 152.4,
+          "left_knee": 171.9,
+          "trunk_lean": 45.2
+        },
+        "delivery_stride": {
+          "right_elbow": 147.5,
+          "right_shoulder": 95.9,
+          "right_knee": 162.2,
+          "left_knee": 153.5,
+          "trunk_lean": 50.8
+        },
+        "release": {
+          "right_elbow": 133.2,
+          "right_shoulder": 111.9,
+          "right_knee": 169.4,
+          "left_knee": 148.4,
+          "trunk_lean": 51.4
+        },
+        "follow_through": {
+          "left_shoulder": 56.6,
+          "right_knee": 163.3,
+          "left_knee": 146.4,
+          "trunk_lean": 127.2
+        }
+      },
+      "progression": {
+        "right_shoulder": 95.4,
+        "right_knee": 17.0,
+        "left_knee": -23.5,
+        "trunk_lean": 6.2
+      },
+      "wrist_signal": {
+        "peak": 0.13,
+        "baseline": -0.131,
+        "rise": 0.261
+      }
+    },
+    {
+      "delivery": 4,
+      "t_sec": 231.3,
+      "release_rel": 0.988,
+      "confidence": "high",
+      "phases": [
+        "load",
+        "release",
+        "delivery_stride",
+        "follow_through",
+        "run_up"
+      ],
+      "release_angles": {
+        "right_elbow": 177.4,
+        "left_elbow": 87.7,
+        "right_shoulder": 98.5,
+        "left_shoulder": 102.4,
+        "right_knee": 27.1,
+        "left_knee": 78.1,
+        "right_hip": 97.2,
+        "left_hip": 145.8,
+        "trunk_lean": 38.0
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 150.9,
+          "left_elbow": 84.3,
+          "right_shoulder": 115.2,
+          "left_shoulder": 86.7,
+          "right_knee": 113.9,
+          "left_knee": 102.6,
+          "trunk_lean": 79.4
+        },
+        "load": {
+          "right_elbow": 170.4,
+          "right_shoulder": 150.2,
+          "left_shoulder": 63.9,
+          "right_knee": 132.1,
+          "left_knee": 147.5,
+          "trunk_lean": 91.0
+        },
+        "delivery_stride": {
+          "right_elbow": 173.9,
+          "left_elbow": 92.4,
+          "right_shoulder": 116.2,
+          "left_shoulder": 102.7,
+          "right_knee": 30.9,
+          "left_knee": 143.8,
+          "trunk_lean": 76.6
+        },
+        "release": {
+          "right_elbow": 177.9,
+          "left_elbow": 109.9,
+          "right_shoulder": 126.4,
+          "left_shoulder": 97.1,
+          "right_knee": 32.1,
+          "left_knee": 109.3,
+          "trunk_lean": 77.3
+        },
+        "follow_through": {
+          "right_elbow": 177.7,
+          "left_elbow": 108.7,
+          "right_shoulder": 114.1,
+          "left_shoulder": 104.8,
+          "right_knee": 46.5,
+          "left_knee": 80.7,
+          "trunk_lean": 70.9
+        }
+      },
+      "progression": {
+        "right_elbow": 7.5,
+        "right_shoulder": -23.8,
+        "left_shoulder": 33.2,
+        "right_knee": -100.0,
+        "left_knee": -38.2,
+        "trunk_lean": -13.7
+      },
+      "wrist_signal": {
+        "peak": 0.133,
+        "baseline": -0.125,
+        "rise": 0.258
+      }
+    },
+    {
+      "delivery": 5,
+      "t_sec": 252.7,
+      "release_rel": 0.942,
+      "confidence": "high",
+      "phases": [
+        "load",
+        "release",
+        "delivery_stride",
+        "follow_through",
+        "run_up"
+      ],
+      "release_angles": {
+        "right_elbow": 168.8,
+        "left_elbow": 175.1,
+        "right_shoulder": 164.2,
+        "left_shoulder": 154.0,
+        "right_knee": 117.5,
+        "left_knee": 154.5,
+        "right_hip": 98.1,
+        "left_hip": 166.1,
+        "trunk_lean": 29.4
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 163.0,
+          "left_elbow": 132.9,
+          "right_shoulder": 73.9,
+          "left_shoulder": 72.2,
+          "right_knee": 133.1,
+          "left_knee": 130.9,
+          "trunk_lean": 108.4
+        },
+        "load": {
+          "left_elbow": 164.0,
+          "left_shoulder": 130.7,
+          "right_knee": 126.6,
+          "left_knee": 108.6,
+          "trunk_lean": 142.8
+        },
+        "delivery_stride": {
+          "left_elbow": 153.3,
+          "left_shoulder": 114.3,
+          "right_knee": 107.8,
+          "left_knee": 81.3,
+          "trunk_lean": 132.6
+        },
+        "release": {
+          "right_elbow": 165.7,
+          "left_elbow": 174.9,
+          "right_shoulder": 165.0,
+          "left_shoulder": 157.5,
+          "right_knee": 110.8,
+          "left_knee": 162.0,
+          "trunk_lean": 28.2
+        },
+        "follow_through": {
+          "right_elbow": 163.0,
+          "left_elbow": 147.5,
+          "right_shoulder": 163.7,
+          "left_shoulder": 114.2,
+          "right_knee": 145.1,
+          "left_knee": 144.7,
+          "trunk_lean": 66.2
+        }
+      },
+      "progression": {
+        "left_elbow": 10.9,
+        "left_shoulder": 26.8,
+        "right_knee": -15.8,
+        "left_knee": 53.4,
+        "trunk_lean": -114.6
+      },
+      "wrist_signal": {
+        "peak": 0.131,
+        "baseline": 0.064,
+        "rise": 0.067
+      }
+    },
+    {
+      "delivery": 6,
+      "t_sec": 272.0,
+      "release_rel": 0.959,
+      "confidence": "high",
+      "phases": [
+        "load",
+        "run_up",
+        "release"
+      ],
+      "release_angles": {
+        "right_elbow": 146.8,
+        "left_elbow": 118.7,
+        "right_shoulder": 141.4,
+        "left_shoulder": 52.4,
+        "right_knee": 85.6,
+        "left_knee": 131.8,
+        "right_hip": 86.8,
+        "left_hip": 115.2,
+        "trunk_lean": 87.3
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 142.6,
+          "left_elbow": 140.2,
+          "right_shoulder": 81.4,
+          "left_shoulder": 84.0,
+          "right_knee": 115.2,
+          "left_knee": 112.2,
+          "trunk_lean": 85.3
+        },
+        "load": {
+          "right_elbow": 158.4,
+          "left_elbow": 141.7,
+          "right_shoulder": 156.0,
+          "left_shoulder": 75.8,
+          "right_knee": 23.0,
+          "left_knee": 144.6,
+          "trunk_lean": 100.0
+        },
+        "release": {
+          "right_elbow": 134.3,
+          "left_elbow": 127.5,
+          "right_shoulder": 120.6,
+          "left_shoulder": 75.8,
+          "right_knee": 94.6,
+          "left_knee": 104.1,
+          "trunk_lean": 71.0
+        }
+      },
+      "progression": {
+        "right_elbow": -24.1,
+        "left_elbow": -14.2,
+        "right_shoulder": -35.4,
+        "left_shoulder": 0.0,
+        "right_knee": 71.6,
+        "left_knee": -40.5,
+        "trunk_lean": -29.0
+      },
+      "wrist_signal": {
+        "peak": 0.151,
+        "baseline": 0.106,
+        "rise": 0.045
+      }
+    },
+    {
+      "delivery": 7,
+      "t_sec": 302.2,
+      "release_rel": 0.956,
+      "confidence": "high",
+      "phases": [
+        "load",
+        "release",
+        "delivery_stride",
+        "follow_through",
+        "run_up"
+      ],
+      "release_angles": {
+        "right_elbow": 175.9,
+        "left_elbow": 72.9,
+        "right_shoulder": 114.6,
+        "left_shoulder": 109.2,
+        "right_knee": 79.9,
+        "left_knee": 72.4,
+        "right_hip": 109.2,
+        "left_hip": 169.7,
+        "trunk_lean": 60.3
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 148.1,
+          "left_elbow": 149.6,
+          "right_shoulder": 45.2,
+          "left_shoulder": 24.2,
+          "right_knee": 165.5,
+          "left_knee": 163.2,
+          "trunk_lean": 77.7
+        },
+        "load": {
+          "right_elbow": 154.3,
+          "right_shoulder": 54.2,
+          "right_knee": 79.0,
+          "trunk_lean": 83.8
+        },
+        "delivery_stride": {
+          "right_elbow": 176.6,
+          "left_elbow": 84.5,
+          "right_shoulder": 128.1,
+          "left_shoulder": 101.1,
+          "right_knee": 74.1,
+          "left_knee": 103.3,
+          "trunk_lean": 86.4
+        },
+        "release": {
+          "right_elbow": 175.3,
+          "left_elbow": 71.1,
+          "right_shoulder": 124.5,
+          "left_shoulder": 100.1,
+          "right_knee": 71.9,
+          "left_knee": 92.0,
+          "trunk_lean": 63.2
+        },
+        "follow_through": {
+          "right_elbow": 150.0,
+          "left_elbow": 106.9,
+          "right_shoulder": 126.6,
+          "left_shoulder": 102.2,
+          "right_knee": 105.2,
+          "left_knee": 99.4,
+          "trunk_lean": 102.1
+        }
+      },
+      "progression": {
+        "right_elbow": 21.0,
+        "right_shoulder": 70.3,
+        "right_knee": -7.1,
+        "trunk_lean": -20.6
+      },
+      "wrist_signal": {
+        "peak": 0.202,
+        "baseline": -0.249,
+        "rise": 0.451
+      }
+    },
+    {
+      "delivery": 8,
+      "t_sec": 463.63,
+      "release_rel": 0.737,
+      "confidence": "high",
+      "phases": [
+        "load",
+        "release",
+        "delivery_stride",
+        "follow_through",
+        "run_up"
+      ],
+      "release_angles": {
+        "right_elbow": 178.7,
+        "right_shoulder": 136.8,
+        "left_knee": 145.6,
+        "left_hip": 172.3,
+        "trunk_lean": 77.0
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 155.1,
+          "left_elbow": 136.2,
+          "right_shoulder": 34.9,
+          "left_shoulder": 56.1,
+          "right_knee": 138.0,
+          "left_knee": 125.3,
+          "trunk_lean": 88.8
+        },
+        "load": {
+          "right_elbow": 80.5,
+          "left_elbow": 116.7,
+          "right_shoulder": 91.0,
+          "left_shoulder": 56.0,
+          "right_knee": 162.4,
+          "left_knee": 132.5,
+          "trunk_lean": 100.5
+        },
+        "delivery_stride": {
+          "right_elbow": 107.6,
+          "left_elbow": 116.3,
+          "right_shoulder": 93.8,
+          "left_shoulder": 64.0,
+          "right_knee": 155.0,
+          "left_knee": 121.8,
+          "trunk_lean": 92.2
+        },
+        "release": {
+          "right_elbow": 178.7,
+          "left_elbow": 173.6,
+          "right_shoulder": 136.8,
+          "left_shoulder": 48.6,
+          "left_knee": 141.2,
+          "trunk_lean": 115.3
+        },
+        "follow_through": {
+          "right_elbow": 134.2,
+          "left_elbow": 147.1,
+          "right_shoulder": 115.3,
+          "left_shoulder": 94.7,
+          "right_knee": 150.1,
+          "left_knee": 168.7,
+          "trunk_lean": 35.6
+        }
+      },
+      "progression": {
+        "right_elbow": 98.2,
+        "left_elbow": 56.9,
+        "right_shoulder": 45.8,
+        "left_shoulder": -7.4,
+        "left_knee": 8.7,
+        "trunk_lean": 14.8
+      },
+      "wrist_signal": {
+        "peak": 0.151,
+        "baseline": -0.098,
+        "rise": 0.25
+      }
+    }
+  ]
+}

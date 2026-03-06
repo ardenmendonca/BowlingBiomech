@@ -1,0 +1,26 @@
+============================================================
+CRICKET BOWLING ANALYSIS
+Video:      Dale.mp4
+Deliveries: 1
+Generated:  2026-03-06T08:14:56.728895
+============================================================
+
+DELIVERY 1  t=10.07s  rel=0.788 ✅
+  Phases: follow_through, release, delivery_stride, run_up, load
+  At release:
+    right_elbow                 174.7°
+    left_elbow                   76.9°
+    right_shoulder              158.4°
+    left_shoulder                39.5°
+    left_knee                    47.6°
+    right_hip                    49.3°
+    left_hip                     44.5°
+    trunk_lean                  119.4°
+  Progression (load→release):
+    right_elbow                 +40.9° ↑
+    left_elbow                  -29.2° ↓
+    right_shoulder              +70.3° ↑
+    left_shoulder                -2.8° ↓
+    right_knee                   -7.4° ↓
+    left_knee                   -57.9° ↓
+    trunk_lean                  +43.7° ↑

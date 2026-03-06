@@ -1,0 +1,79 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "analyze — single video",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/analyze_pipeline.py",
+      "args": ["--video", "data/videos/YOUR_VIDEO.mp4"],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "analyze — single video + Groq",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/analyze_pipeline.py",
+      "args": ["--video", "data/videos/YOUR_VIDEO.mp4", "--llm", "groq"],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "analyze — llm only",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/analyze_pipeline.py",
+      "args": [
+        "--video",
+        "data/videos/YOUR_VIDEO.mp4",
+        "--llm-only",
+        "--llm",
+        "groq"
+      ],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "two_pass_pipeline — single video",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/two_pass_pipeline.py",
+      "args": ["--video", "data/videos/YOUR_VIDEO.mp4"],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "two_pass_pipeline — all videos",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/two_pass_pipeline.py",
+      "args": ["--all", "--no-video", "--skip-existing"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "two_pass_pipeline — all + Groq",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/two_pass_pipeline.py",
+      "args": ["--all", "--no-video", "--skip-existing", "--llm", "groq"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Download Kaggle data",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/download_data.py",
+      "args": ["--all"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "summarizer — standalone",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/summarizer.py",
+      "args": ["--json", "outputs/pose_json/YOUR_VIDEO_pose.json", "--txt"],
+      "console": "integratedTerminal"
+    }
+  ]
+}

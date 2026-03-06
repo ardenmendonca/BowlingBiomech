@@ -1,0 +1,86 @@
+{
+  "video": "Dale.mp4",
+  "fps": 25.12,
+  "total_deliveries": 1,
+  "generated_at": "2026-03-06T08:14:56.725290",
+  "deliveries": [
+    {
+      "delivery": 1,
+      "t_sec": 10.07,
+      "release_rel": 0.788,
+      "release_angles": {
+        "right_elbow": 174.7,
+        "left_elbow": 76.9,
+        "right_shoulder": 158.4,
+        "left_shoulder": 39.5,
+        "left_knee": 47.6,
+        "right_hip": 49.3,
+        "left_hip": 44.5,
+        "trunk_lean": 119.4
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 138.6,
+          "left_elbow": 112.3,
+          "right_shoulder": 65.0,
+          "left_shoulder": 77.8,
+          "right_knee": 105.5,
+          "left_knee": 87.6,
+          "trunk_lean": 74.5
+        },
+        "load": {
+          "right_elbow": 127.9,
+          "left_elbow": 127.2,
+          "right_shoulder": 85.1,
+          "left_shoulder": 38.0,
+          "right_knee": 73.3,
+          "left_knee": 124.0,
+          "trunk_lean": 69.4
+        },
+        "delivery_stride": {
+          "right_elbow": 166.6,
+          "left_elbow": 101.6,
+          "right_shoulder": 134.4,
+          "left_shoulder": 30.0,
+          "right_knee": 103.0,
+          "left_knee": 115.1,
+          "trunk_lean": 68.6
+        },
+        "release": {
+          "right_elbow": 168.8,
+          "left_elbow": 98.0,
+          "right_shoulder": 155.4,
+          "left_shoulder": 35.2,
+          "right_knee": 65.9,
+          "left_knee": 66.1,
+          "trunk_lean": 113.1
+        },
+        "follow_through": {
+          "right_elbow": 148.2,
+          "left_elbow": 133.3,
+          "right_shoulder": 56.4,
+          "left_shoulder": 57.1,
+          "right_knee": 101.6,
+          "left_knee": 123.8,
+          "trunk_lean": 98.2
+        }
+      },
+      "progression": {
+        "right_elbow": 40.9,
+        "left_elbow": -29.2,
+        "right_shoulder": 70.3,
+        "left_shoulder": -2.8,
+        "right_knee": -7.4,
+        "left_knee": -57.9,
+        "trunk_lean": 43.7
+      },
+      "phases": [
+        "follow_through",
+        "release",
+        "delivery_stride",
+        "run_up",
+        "load"
+      ]
+    }
+  ]
+}

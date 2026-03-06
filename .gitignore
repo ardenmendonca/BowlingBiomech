@@ -1,0 +1,44 @@
+# ── Virtual Environment ────────────────────────────────────────────────────────
+venv/
+env/
+.env
+
+# ── Large output files ─────────────────────────────────────────────────────────
+outputs/annotated_videos/
+outputs/pose_json/
+
+# ── Keep these output folders but not their contents ──────────────────────────
+!outputs/annotated_videos/.gitkeep
+!outputs/pose_json/.gitkeep
+!outputs/summaries/.gitkeep
+!outputs/results/.gitkeep
+!outputs/reports/.gitkeep
+
+# ── Video files ────────────────────────────────────────────────────────────────
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── VS Code ───────────────────────────────────────────────────────────────────
+.vscode/
+*.code-workspace
+
+# ── Kaggle credentials ────────────────────────────────────────────────────────
+kaggle.json
+*.key

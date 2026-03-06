@@ -1,0 +1,260 @@
+{
+  "video": "yt.mp4",
+  "detection_quality": {
+    "total_frames": 16227,
+    "detected_frames": 11231,
+    "detection_rate_pct": 69.2,
+    "quality": "moderate"
+  },
+  "phases_detected": [
+    "run_up",
+    "load",
+    "delivery_stride",
+    "release",
+    "follow_through"
+  ],
+  "key_frame_angles": {
+    "release": {
+      "frame_idx": 14720,
+      "timestamp_ms": 588800.0,
+      "angles": {}
+    },
+    "peak_load": {
+      "frame_idx": 14694,
+      "timestamp_ms": 587760.0,
+      "angles": {}
+    },
+    "delivery_stride": {
+      "frame_idx": 14705,
+      "timestamp_ms": 588200.0,
+      "angles": {}
+    },
+    "follow_through": {
+      "frame_idx": 15317,
+      "timestamp_ms": 612680.0,
+      "angles": {
+        "right_elbow": 122.42,
+        "left_elbow": 105.29,
+        "right_shoulder": 96.03,
+        "left_shoulder": 50.75,
+        "trunk_lean": 68.47
+      }
+    },
+    "run_up": {
+      "frame_idx": 7242,
+      "timestamp_ms": 289680.0,
+      "angles": {
+        "left_elbow": 121.66,
+        "left_shoulder": 115.34,
+        "trunk_lean": 101.88
+      }
+    }
+  },
+  "movement_trends": {
+    "right_elbow": {
+      "phase_means": {
+        "run_up": 130.1,
+        "follow_through": 124.0
+      },
+      "range_of_motion": 178.1,
+      "peak": 179.8,
+      "trough": 1.7
+    },
+    "left_elbow": {
+      "phase_means": {
+        "run_up": 128.4,
+        "follow_through": 127.6
+      },
+      "range_of_motion": 170.5,
+      "peak": 179.3,
+      "trough": 8.8
+    },
+    "right_shoulder": {
+      "phase_means": {
+        "run_up": 75.4,
+        "follow_through": 69.8
+      },
+      "range_of_motion": 176.5,
+      "peak": 177.8,
+      "trough": 1.3
+    },
+    "left_shoulder": {
+      "phase_means": {
+        "run_up": 68.1,
+        "follow_through": 68.7
+      },
+      "range_of_motion": 178.3,
+      "peak": 178.5,
+      "trough": 0.2
+    },
+    "right_knee": {
+      "phase_means": {
+        "run_up": 120.7,
+        "follow_through": 129.4
+      },
+      "range_of_motion": 175.4,
+      "peak": 179.7,
+      "trough": 4.3
+    },
+    "left_knee": {
+      "phase_means": {
+        "run_up": 119.3,
+        "follow_through": 141.4
+      },
+      "range_of_motion": 170.6,
+      "peak": 179.7,
+      "trough": 9.2
+    },
+    "right_hip": {
+      "phase_means": {
+        "run_up": 106.4,
+        "follow_through": 111.8
+      },
+      "range_of_motion": 175.9,
+      "peak": 179.5,
+      "trough": 3.6
+    },
+    "trunk_lean": {
+      "phase_means": {
+        "run_up": 75.6,
+        "load": 82.6,
+        "follow_through": 78.2
+      },
+      "range_of_motion": 173.0,
+      "peak": 176.5,
+      "trough": 3.5
+    }
+  },
+  "elite_comparison": [],
+  "automated_findings": [
+    {
+      "severity": "ok",
+      "category": "general",
+      "finding": "No major biomechanical flags detected in this sequence."
+    }
+  ],
+  "phase_stats": {
+    "run_up": {
+      "right_elbow": {
+        "mean": 130.1,
+        "min": 1.7,
+        "max": 179.8,
+        "std": 36.0
+      },
+      "left_elbow": {
+        "mean": 128.4,
+        "min": 8.8,
+        "max": 179.3,
+        "std": 34.9
+      },
+      "right_shoulder": {
+        "mean": 75.4,
+        "min": 1.3,
+        "max": 177.9,
+        "std": 47.7
+      },
+      "left_shoulder": {
+        "mean": 68.1,
+        "min": 0.2,
+        "max": 178.5,
+        "std": 42.5
+      },
+      "right_knee": {
+        "mean": 120.7,
+        "min": 4.3,
+        "max": 179.7,
+        "std": 45.4
+      },
+      "left_knee": {
+        "mean": 119.3,
+        "min": 9.2,
+        "max": 179.7,
+        "std": 43.1
+      },
+      "right_hip": {
+        "mean": 106.4,
+        "min": 3.6,
+        "max": 179.5,
+        "std": 47.2
+      },
+      "left_hip": {
+        "mean": 103.4,
+        "min": 4.1,
+        "max": 179.0,
+        "std": 46.5
+      },
+      "trunk_lean": {
+        "mean": 75.6,
+        "min": 3.5,
+        "max": 176.5,
+        "std": 37.1
+      }
+    },
+    "load": {
+      "trunk_lean": {
+        "mean": 82.6,
+        "min": 62.9,
+        "max": 93.3,
+        "std": 14.0
+      }
+    },
+    "delivery_stride": {},
+    "release": {},
+    "follow_through": {
+      "right_elbow": {
+        "mean": 124.0,
+        "min": 23.8,
+        "max": 176.0,
+        "std": 36.5
+      },
+      "left_elbow": {
+        "mean": 127.6,
+        "min": 34.0,
+        "max": 176.5,
+        "std": 32.0
+      },
+      "right_shoulder": {
+        "mean": 69.8,
+        "min": 4.3,
+        "max": 165.0,
+        "std": 48.0
+      },
+      "left_shoulder": {
+        "mean": 68.7,
+        "min": 1.3,
+        "max": 168.2,
+        "std": 39.1
+      },
+      "right_knee": {
+        "mean": 129.4,
+        "min": 9.7,
+        "max": 179.7,
+        "std": 44.0
+      },
+      "left_knee": {
+        "mean": 141.4,
+        "min": 15.5,
+        "max": 179.6,
+        "std": 37.4
+      },
+      "right_hip": {
+        "mean": 111.8,
+        "min": 10.8,
+        "max": 178.6,
+        "std": 48.0
+      },
+      "left_hip": {
+        "mean": 114.7,
+        "min": 19.7,
+        "max": 178.7,
+        "std": 49.9
+      },
+      "trunk_lean": {
+        "mean": 78.2,
+        "min": 8.1,
+        "max": 171.9,
+        "std": 36.1
+      }
+    }
+  }
+}

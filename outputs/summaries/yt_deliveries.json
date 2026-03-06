@@ -1,0 +1,2684 @@
+{
+  "video": "yt.mp4",
+  "fps": 25.0,
+  "total_deliveries_found": 51,
+  "generated_at": "2026-03-04T01:24:16.313114",
+  "deliveries": [
+    {
+      "delivery_num": 1,
+      "timestamp_sec": 8.32,
+      "frame_count": 88,
+      "release_reliability": 0.638,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 175.6,
+        "right_shoulder": 160.3,
+        "left_shoulder": 52.4,
+        "trunk_lean": 89.6
+      },
+      "phase_means": {
+        "run_up": {
+          "trunk_lean": 70.9
+        },
+        "load": {
+          "left_shoulder": 87.8,
+          "trunk_lean": 84.5
+        },
+        "delivery_stride": {
+          "right_elbow": 168.1,
+          "right_shoulder": 167.7,
+          "left_shoulder": 103.2,
+          "trunk_lean": 71.3
+        },
+        "release": {
+          "right_elbow": 174.1,
+          "right_shoulder": 170.0,
+          "left_shoulder": 70.0,
+          "trunk_lean": 83.7
+        },
+        "follow_through": {
+          "right_elbow": 154.0,
+          "left_elbow": 148.0,
+          "right_shoulder": 132.4,
+          "left_shoulder": 48.1,
+          "trunk_lean": 88.4
+        }
+      },
+      "progression_load_to_release": {
+        "left_shoulder": -17.8,
+        "trunk_lean": -0.8
+      }
+    },
+    {
+      "delivery_num": 2,
+      "timestamp_sec": 27.56,
+      "frame_count": 88,
+      "release_reliability": 0.795,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 171.5,
+        "left_elbow": 171.4,
+        "right_shoulder": 145.7,
+        "left_shoulder": 149.0,
+        "trunk_lean": 58.5
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 148.1,
+          "left_elbow": 114.1,
+          "right_shoulder": 129.2,
+          "left_shoulder": 107.9,
+          "trunk_lean": 14.4
+        },
+        "load": {
+          "right_elbow": 153.5,
+          "left_elbow": 168.3,
+          "right_shoulder": 146.5,
+          "left_shoulder": 144.0,
+          "trunk_lean": 48.6
+        },
+        "delivery_stride": {
+          "right_elbow": 162.6,
+          "left_elbow": 175.5,
+          "right_shoulder": 134.7,
+          "left_shoulder": 141.2,
+          "trunk_lean": 52.4
+        },
+        "release": {
+          "right_elbow": 163.2,
+          "left_elbow": 172.2,
+          "right_shoulder": 143.9,
+          "left_shoulder": 148.5,
+          "trunk_lean": 59.5
+        },
+        "follow_through": {
+          "right_elbow": 142.9,
+          "left_elbow": 136.6,
+          "right_shoulder": 102.7,
+          "left_shoulder": 94.8,
+          "trunk_lean": 61.6
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 9.7,
+        "left_elbow": 3.9,
+        "right_shoulder": -2.6,
+        "left_shoulder": 4.5,
+        "trunk_lean": 10.9
+      }
+    },
+    {
+      "delivery_num": 3,
+      "timestamp_sec": 29.72,
+      "frame_count": 88,
+      "release_reliability": 0.667,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 18.2,
+        "left_elbow": 12.3,
+        "right_shoulder": 55.3,
+        "left_shoulder": 46.6,
+        "trunk_lean": 50.1
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 134.4,
+          "left_elbow": 124.7,
+          "right_shoulder": 110.9,
+          "left_shoulder": 75.3,
+          "trunk_lean": 29.3
+        },
+        "load": {
+          "right_elbow": 129.4,
+          "left_elbow": 119.1,
+          "right_shoulder": 63.1,
+          "left_shoulder": 74.8,
+          "trunk_lean": 87.9
+        },
+        "delivery_stride": {
+          "right_elbow": 60.4,
+          "left_elbow": 89.2,
+          "right_shoulder": 59.7,
+          "left_shoulder": 55.9,
+          "trunk_lean": 70.0
+        },
+        "release": {
+          "right_elbow": 109.9,
+          "left_elbow": 82.1,
+          "right_shoulder": 51.1,
+          "left_shoulder": 45.9,
+          "trunk_lean": 83.7
+        },
+        "follow_through": {
+          "right_elbow": 119.2,
+          "left_elbow": 120.1,
+          "right_shoulder": 48.0,
+          "left_shoulder": 45.3,
+          "right_knee": 113.1,
+          "left_knee": 125.5,
+          "trunk_lean": 81.1
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": -19.5,
+        "left_elbow": -37.0,
+        "right_shoulder": -12.0,
+        "left_shoulder": -28.9,
+        "trunk_lean": -4.2
+      }
+    },
+    {
+      "delivery_num": 4,
+      "timestamp_sec": 36.2,
+      "frame_count": 88,
+      "release_reliability": 0.758,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 158.2,
+        "left_elbow": 174.9,
+        "right_shoulder": 121.2,
+        "left_shoulder": 132.9,
+        "right_hip": 103.1,
+        "left_hip": 115.9,
+        "trunk_lean": 67.2
+      },
+      "phase_means": {
+        "load": {
+          "right_knee": 98.7,
+          "left_knee": 115.1,
+          "trunk_lean": 89.7
+        },
+        "delivery_stride": {
+          "right_elbow": 161.8,
+          "left_elbow": 174.5,
+          "right_shoulder": 123.8,
+          "left_shoulder": 85.2,
+          "right_knee": 59.9,
+          "left_knee": 65.8,
+          "trunk_lean": 97.8
+        },
+        "release": {
+          "right_elbow": 162.4,
+          "left_elbow": 175.3,
+          "right_shoulder": 132.4,
+          "left_shoulder": 131.6,
+          "right_knee": 75.7,
+          "left_knee": 92.2,
+          "trunk_lean": 77.5
+        },
+        "follow_through": {
+          "right_elbow": 136.4,
+          "left_elbow": 135.9,
+          "right_shoulder": 53.8,
+          "left_shoulder": 113.2,
+          "right_knee": 94.8,
+          "left_knee": 110.3,
+          "trunk_lean": 74.2
+        }
+      },
+      "progression_load_to_release": {
+        "right_knee": -23.0,
+        "left_knee": -22.9,
+        "trunk_lean": -12.2
+      }
+    },
+    {
+      "delivery_num": 5,
+      "timestamp_sec": 39.88,
+      "frame_count": 88,
+      "release_reliability": 0.639,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 85.8,
+        "right_shoulder": 139.5,
+        "trunk_lean": 74.8
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 102.6,
+          "left_elbow": 72.5,
+          "right_shoulder": 61.6,
+          "left_shoulder": 53.9,
+          "right_knee": 37.2,
+          "left_knee": 55.5,
+          "trunk_lean": 106.3
+        },
+        "load": {
+          "right_elbow": 113.2,
+          "left_elbow": 73.0,
+          "right_shoulder": 56.6,
+          "left_shoulder": 34.3,
+          "right_knee": 140.7,
+          "left_knee": 151.1,
+          "trunk_lean": 110.3
+        },
+        "delivery_stride": {
+          "right_elbow": 119.4,
+          "right_shoulder": 72.5,
+          "left_shoulder": 69.3,
+          "trunk_lean": 121.5
+        },
+        "release": {
+          "right_elbow": 122.8,
+          "right_shoulder": 149.0,
+          "trunk_lean": 84.1
+        },
+        "follow_through": {
+          "right_elbow": 152.6,
+          "left_elbow": 118.6,
+          "right_shoulder": 56.9,
+          "left_shoulder": 70.6,
+          "trunk_lean": 82.4
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 9.6,
+        "right_shoulder": 92.4,
+        "trunk_lean": -26.2
+      }
+    },
+    {
+      "delivery_num": 6,
+      "timestamp_sec": 43.24,
+      "frame_count": 88,
+      "release_reliability": 0.6,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 170.3,
+        "left_elbow": 119.8,
+        "right_shoulder": 151.6,
+        "left_shoulder": 15.4,
+        "trunk_lean": 103.2
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 143.9,
+          "left_elbow": 126.0,
+          "right_shoulder": 135.9,
+          "left_shoulder": 68.0,
+          "trunk_lean": 75.0
+        },
+        "load": {
+          "right_elbow": 146.7,
+          "left_elbow": 128.3,
+          "right_shoulder": 132.1,
+          "left_shoulder": 62.8,
+          "trunk_lean": 87.6
+        },
+        "delivery_stride": {
+          "right_elbow": 163.9,
+          "left_elbow": 110.6,
+          "right_shoulder": 155.8,
+          "left_shoulder": 25.1,
+          "trunk_lean": 109.0
+        },
+        "release": {
+          "right_elbow": 164.8,
+          "left_elbow": 115.5,
+          "right_shoulder": 152.4,
+          "left_shoulder": 31.6,
+          "trunk_lean": 99.4
+        },
+        "follow_through": {
+          "right_elbow": 142.9,
+          "right_shoulder": 144.9,
+          "trunk_lean": 83.7
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 18.1,
+        "left_elbow": -12.8,
+        "right_shoulder": 20.3,
+        "left_shoulder": -31.2,
+        "trunk_lean": 11.8
+      }
+    },
+    {
+      "delivery_num": 7,
+      "timestamp_sec": 50.96,
+      "frame_count": 88,
+      "release_reliability": 0.725,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 152.4,
+        "left_elbow": 145.0,
+        "right_shoulder": 142.2,
+        "left_shoulder": 141.8,
+        "trunk_lean": 124.1
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 118.9,
+          "left_elbow": 159.1,
+          "right_shoulder": 34.5,
+          "left_shoulder": 67.4,
+          "right_knee": 160.1,
+          "left_knee": 151.7,
+          "trunk_lean": 35.7
+        },
+        "load": {
+          "right_elbow": 105.9,
+          "left_elbow": 131.6,
+          "right_shoulder": 46.2,
+          "left_shoulder": 54.2,
+          "right_knee": 108.4,
+          "left_knee": 111.3,
+          "trunk_lean": 59.2
+        },
+        "delivery_stride": {
+          "right_elbow": 164.0,
+          "left_elbow": 174.3,
+          "right_shoulder": 113.7,
+          "left_shoulder": 94.4,
+          "left_knee": 96.8,
+          "trunk_lean": 47.5
+        },
+        "release": {
+          "right_elbow": 156.8,
+          "left_elbow": 165.0,
+          "right_shoulder": 152.0,
+          "left_shoulder": 154.4,
+          "trunk_lean": 135.9
+        },
+        "follow_through": {
+          "right_elbow": 132.5,
+          "left_elbow": 149.1,
+          "right_shoulder": 120.4,
+          "left_shoulder": 117.4,
+          "trunk_lean": 67.8
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 50.9,
+        "left_elbow": 33.4,
+        "right_shoulder": 105.8,
+        "left_shoulder": 100.2,
+        "trunk_lean": 76.7
+      }
+    },
+    {
+      "delivery_num": 8,
+      "timestamp_sec": 55.48,
+      "frame_count": 88,
+      "release_reliability": 0.583,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 134.7,
+        "left_elbow": 151.3,
+        "right_shoulder": 89.9,
+        "left_shoulder": 92.0,
+        "trunk_lean": 88.2
+      },
+      "phase_means": {
+        "load": {},
+        "delivery_stride": {
+          "left_elbow": 88.6
+        },
+        "release": {
+          "right_elbow": 136.9,
+          "left_elbow": 145.3,
+          "right_shoulder": 89.9,
+          "left_shoulder": 92.0,
+          "trunk_lean": 88.2
+        },
+        "follow_through": {
+          "right_elbow": 121.3,
+          "left_elbow": 127.3,
+          "right_shoulder": 57.8,
+          "left_shoulder": 52.7,
+          "trunk_lean": 91.9
+        }
+      },
+      "progression_load_to_release": {}
+    },
+    {
+      "delivery_num": 9,
+      "timestamp_sec": 66.2,
+      "frame_count": 88,
+      "release_reliability": 0.582,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 135.9,
+        "left_elbow": 115.3,
+        "right_shoulder": 54.5,
+        "left_shoulder": 66.4,
+        "trunk_lean": 70.7
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 158.1
+        },
+        "load": {
+          "trunk_lean": 69.2
+        },
+        "delivery_stride": {
+          "right_elbow": 168.4,
+          "right_shoulder": 137.7,
+          "trunk_lean": 67.2
+        },
+        "release": {
+          "right_elbow": 130.1,
+          "left_elbow": 111.5,
+          "right_shoulder": 112.2,
+          "left_shoulder": 55.0,
+          "trunk_lean": 78.2
+        },
+        "follow_through": {
+          "right_elbow": 146.2,
+          "left_elbow": 120.9,
+          "right_shoulder": 142.6,
+          "left_shoulder": 107.0,
+          "trunk_lean": 84.9
+        }
+      },
+      "progression_load_to_release": {
+        "trunk_lean": 9.0
+      }
+    },
+    {
+      "delivery_num": 10,
+      "timestamp_sec": 72.56,
+      "frame_count": 88,
+      "release_reliability": 0.551,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 169.4,
+        "right_shoulder": 155.3,
+        "left_shoulder": 94.8,
+        "trunk_lean": 82.5
+      },
+      "phase_means": {
+        "run_up": {
+          "left_knee": 134.9,
+          "trunk_lean": 100.8
+        },
+        "load": {
+          "right_elbow": 144.4,
+          "left_elbow": 137.7,
+          "right_shoulder": 122.0,
+          "left_shoulder": 54.0,
+          "left_knee": 92.5,
+          "trunk_lean": 79.7
+        },
+        "delivery_stride": {
+          "right_elbow": 167.0,
+          "left_elbow": 120.4,
+          "right_shoulder": 159.6,
+          "left_shoulder": 58.4,
+          "trunk_lean": 78.0
+        },
+        "release": {
+          "right_elbow": 150.3,
+          "right_shoulder": 155.4,
+          "left_shoulder": 92.1,
+          "trunk_lean": 84.7
+        },
+        "follow_through": {}
+      },
+      "progression_load_to_release": {
+        "right_elbow": 5.9,
+        "right_shoulder": 33.4,
+        "left_shoulder": 38.1,
+        "trunk_lean": 5.0
+      }
+    },
+    {
+      "delivery_num": 11,
+      "timestamp_sec": 88.16,
+      "frame_count": 88,
+      "release_reliability": 0.548,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 122.1,
+        "right_shoulder": 146.5,
+        "trunk_lean": 73.7
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 132.8,
+          "right_shoulder": 43.1,
+          "right_knee": 155.9,
+          "left_knee": 158.8,
+          "trunk_lean": 82.1
+        },
+        "load": {
+          "right_elbow": 109.3,
+          "right_shoulder": 78.5,
+          "left_shoulder": 47.7,
+          "right_knee": 96.0,
+          "left_knee": 102.3,
+          "trunk_lean": 118.5
+        },
+        "delivery_stride": {
+          "right_elbow": 143.7,
+          "right_shoulder": 164.4,
+          "trunk_lean": 80.8
+        },
+        "release": {
+          "right_elbow": 138.2,
+          "right_shoulder": 149.5,
+          "trunk_lean": 81.1
+        },
+        "follow_through": {
+          "right_elbow": 125.8,
+          "left_elbow": 152.2,
+          "right_shoulder": 119.3,
+          "left_shoulder": 73.5,
+          "trunk_lean": 79.7
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 28.9,
+        "right_shoulder": 71.0,
+        "trunk_lean": -37.4
+      }
+    },
+    {
+      "delivery_num": 12,
+      "timestamp_sec": 117.16,
+      "frame_count": 88,
+      "release_reliability": 0.543,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 133.3,
+        "left_elbow": 170.5,
+        "right_shoulder": 96.7,
+        "left_shoulder": 9.8,
+        "trunk_lean": 159.8
+      },
+      "phase_means": {
+        "run_up": {
+          "trunk_lean": 83.0
+        },
+        "load": {
+          "right_elbow": 123.8,
+          "left_elbow": 119.6,
+          "right_shoulder": 64.5,
+          "left_shoulder": 43.6,
+          "trunk_lean": 94.1
+        },
+        "delivery_stride": {
+          "right_elbow": 138.4,
+          "left_elbow": 146.0,
+          "right_shoulder": 89.4,
+          "left_shoulder": 58.9,
+          "trunk_lean": 85.7
+        },
+        "release": {
+          "right_elbow": 146.1,
+          "left_elbow": 170.5,
+          "right_shoulder": 113.7,
+          "left_shoulder": 26.3,
+          "trunk_lean": 119.1
+        },
+        "follow_through": {}
+      },
+      "progression_load_to_release": {
+        "right_elbow": 22.3,
+        "left_elbow": 50.9,
+        "right_shoulder": 49.2,
+        "left_shoulder": -17.3,
+        "trunk_lean": 25.0
+      }
+    },
+    {
+      "delivery_num": 13,
+      "timestamp_sec": 128.64,
+      "frame_count": 88,
+      "release_reliability": 0.426,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {},
+      "phase_means": {
+        "run_up": {
+          "trunk_lean": 89.7
+        },
+        "load": {
+          "right_elbow": 129.3
+        },
+        "delivery_stride": {
+          "right_elbow": 122.4
+        },
+        "release": {}
+      },
+      "progression_load_to_release": {}
+    },
+    {
+      "delivery_num": 14,
+      "timestamp_sec": 141.6,
+      "frame_count": 88,
+      "release_reliability": 0.618,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 158.7,
+        "right_shoulder": 120.2,
+        "trunk_lean": 74.0
+      },
+      "phase_means": {
+        "run_up": {
+          "trunk_lean": 59.9
+        },
+        "load": {
+          "right_elbow": 105.0,
+          "right_shoulder": 129.2,
+          "left_shoulder": 16.4,
+          "trunk_lean": 55.4
+        },
+        "delivery_stride": {
+          "right_elbow": 90.7,
+          "right_shoulder": 150.1,
+          "trunk_lean": 102.8
+        },
+        "release": {
+          "right_elbow": 132.2,
+          "right_shoulder": 129.1,
+          "trunk_lean": 78.7
+        },
+        "follow_through": {
+          "right_elbow": 148.7,
+          "right_shoulder": 62.4,
+          "trunk_lean": 83.9
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 27.2,
+        "right_shoulder": -0.1,
+        "trunk_lean": 23.3
+      }
+    },
+    {
+      "delivery_num": 15,
+      "timestamp_sec": 161.04,
+      "frame_count": 88,
+      "release_reliability": 0.676,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "left_elbow": 164.6,
+        "left_shoulder": 8.6,
+        "left_knee": 149.4,
+        "left_hip": 89.2,
+        "trunk_lean": 33.7
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 92.1,
+          "left_elbow": 104.8,
+          "right_shoulder": 26.0,
+          "left_shoulder": 42.8,
+          "trunk_lean": 66.0
+        },
+        "load": {
+          "left_elbow": 137.1,
+          "left_shoulder": 49.5,
+          "left_knee": 171.8,
+          "trunk_lean": 69.1
+        },
+        "delivery_stride": {
+          "left_elbow": 148.4,
+          "left_shoulder": 71.8,
+          "left_knee": 162.0,
+          "trunk_lean": 62.0
+        },
+        "release": {
+          "left_elbow": 157.1,
+          "left_shoulder": 47.6,
+          "left_knee": 150.0,
+          "trunk_lean": 36.4
+        },
+        "follow_through": {
+          "left_elbow": 142.5,
+          "left_shoulder": 44.4,
+          "left_knee": 138.2,
+          "trunk_lean": 75.8
+        }
+      },
+      "progression_load_to_release": {
+        "left_elbow": 20.0,
+        "left_shoulder": -1.9,
+        "left_knee": -21.8,
+        "trunk_lean": -32.7
+      }
+    },
+    {
+      "delivery_num": 16,
+      "timestamp_sec": 171.72,
+      "frame_count": 88,
+      "release_reliability": 0.725,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "left_elbow": 144.3,
+        "left_shoulder": 56.6,
+        "right_knee": 124.1,
+        "left_knee": 103.3,
+        "right_hip": 69.4,
+        "left_hip": 38.9,
+        "trunk_lean": 28.3
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 76.4,
+          "left_elbow": 47.6,
+          "right_shoulder": 93.7,
+          "left_shoulder": 57.2,
+          "left_knee": 51.5,
+          "trunk_lean": 92.9
+        },
+        "load": {
+          "right_elbow": 125.4,
+          "left_elbow": 120.4,
+          "right_shoulder": 15.9,
+          "left_shoulder": 46.7,
+          "right_knee": 122.2,
+          "left_knee": 131.3,
+          "trunk_lean": 85.7
+        },
+        "delivery_stride": {
+          "right_elbow": 116.0,
+          "left_elbow": 152.5,
+          "right_shoulder": 26.7,
+          "left_shoulder": 54.1,
+          "right_knee": 158.0,
+          "left_knee": 117.7,
+          "trunk_lean": 89.3
+        },
+        "release": {
+          "left_elbow": 119.8,
+          "left_shoulder": 64.1,
+          "right_knee": 102.6,
+          "left_knee": 106.9,
+          "trunk_lean": 66.6
+        },
+        "follow_through": {
+          "right_elbow": 111.8,
+          "left_elbow": 143.6,
+          "right_shoulder": 35.3,
+          "left_shoulder": 49.4,
+          "right_knee": 124.2,
+          "left_knee": 123.1,
+          "trunk_lean": 65.9
+        }
+      },
+      "progression_load_to_release": {
+        "left_elbow": -0.6,
+        "left_shoulder": 17.4,
+        "right_knee": -19.6,
+        "left_knee": -24.4,
+        "trunk_lean": -19.1
+      }
+    },
+    {
+      "delivery_num": 17,
+      "timestamp_sec": 173.48,
+      "frame_count": 88,
+      "release_reliability": 0.6,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "trunk_lean": 33.3
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 100.5,
+          "left_elbow": 149.1,
+          "right_shoulder": 28.6,
+          "left_shoulder": 45.3,
+          "right_knee": 121.3,
+          "left_knee": 121.2,
+          "trunk_lean": 65.8
+        },
+        "load": {
+          "right_elbow": 124.1,
+          "left_elbow": 139.1,
+          "right_shoulder": 43.1,
+          "left_shoulder": 39.3,
+          "right_knee": 125.5,
+          "left_knee": 125.0,
+          "trunk_lean": 76.1
+        },
+        "delivery_stride": {
+          "right_shoulder": 22.8,
+          "left_shoulder": 68.1,
+          "trunk_lean": 76.3
+        },
+        "release": {
+          "trunk_lean": 40.3
+        },
+        "follow_through": {
+          "trunk_lean": 68.3
+        }
+      },
+      "progression_load_to_release": {
+        "trunk_lean": -35.8
+      }
+    },
+    {
+      "delivery_num": 18,
+      "timestamp_sec": 181.32,
+      "frame_count": 88,
+      "release_reliability": 0.46,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {},
+      "phase_means": {
+        "run_up": {},
+        "load": {},
+        "delivery_stride": {
+          "left_elbow": 158.4
+        },
+        "release": {}
+      },
+      "progression_load_to_release": {}
+    },
+    {
+      "delivery_num": 19,
+      "timestamp_sec": 217.56,
+      "frame_count": 88,
+      "release_reliability": 0.629,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 49.6,
+        "right_shoulder": 134.8,
+        "left_shoulder": 61.9,
+        "trunk_lean": 78.2
+      },
+      "phase_means": {
+        "run_up": {
+          "left_elbow": 160.5,
+          "left_shoulder": 59.5,
+          "left_knee": 157.2,
+          "trunk_lean": 43.9
+        },
+        "load": {
+          "right_elbow": 143.0,
+          "left_elbow": 134.0,
+          "right_shoulder": 34.0,
+          "left_shoulder": 33.8,
+          "right_knee": 159.9,
+          "left_knee": 157.4,
+          "trunk_lean": 91.2
+        },
+        "delivery_stride": {
+          "right_elbow": 97.1,
+          "right_shoulder": 108.6,
+          "left_shoulder": 83.3,
+          "trunk_lean": 76.8
+        },
+        "release": {
+          "right_elbow": 78.5,
+          "right_shoulder": 90.6,
+          "left_shoulder": 93.5,
+          "trunk_lean": 82.1
+        },
+        "follow_through": {
+          "left_elbow": 174.0,
+          "left_shoulder": 66.2,
+          "trunk_lean": 83.6
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": -64.5,
+        "right_shoulder": 56.6,
+        "left_shoulder": 59.7,
+        "trunk_lean": -9.1
+      }
+    },
+    {
+      "delivery_num": 20,
+      "timestamp_sec": 234.56,
+      "frame_count": 88,
+      "release_reliability": 0.594,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 157.6,
+        "right_shoulder": 123.1,
+        "left_shoulder": 38.0,
+        "trunk_lean": 78.9
+      },
+      "phase_means": {
+        "run_up": {
+          "trunk_lean": 61.9
+        },
+        "load": {
+          "trunk_lean": 81.7
+        },
+        "delivery_stride": {
+          "trunk_lean": 92.7
+        },
+        "release": {
+          "right_elbow": 154.1,
+          "right_shoulder": 130.6,
+          "left_shoulder": 36.6,
+          "trunk_lean": 76.5
+        },
+        "follow_through": {
+          "right_elbow": 147.3,
+          "left_elbow": 160.3,
+          "right_shoulder": 91.6,
+          "left_shoulder": 57.5,
+          "trunk_lean": 78.6
+        }
+      },
+      "progression_load_to_release": {
+        "trunk_lean": -5.2
+      }
+    },
+    {
+      "delivery_num": 21,
+      "timestamp_sec": 238.28,
+      "frame_count": 88,
+      "release_reliability": 0.517,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 173.7
+      },
+      "phase_means": {
+        "load": {
+          "right_elbow": 110.8
+        },
+        "delivery_stride": {
+          "right_elbow": 147.1
+        },
+        "release": {
+          "right_elbow": 176.5
+        },
+        "follow_through": {
+          "right_elbow": 131.0,
+          "left_elbow": 67.4,
+          "right_shoulder": 93.4,
+          "left_shoulder": 102.2,
+          "right_knee": 91.0,
+          "left_knee": 106.4,
+          "trunk_lean": 116.7
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 65.7
+      }
+    },
+    {
+      "delivery_num": 22,
+      "timestamp_sec": 249.48,
+      "frame_count": 88,
+      "release_reliability": 0.692,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 168.9,
+        "left_elbow": 158.7,
+        "right_shoulder": 167.5,
+        "left_shoulder": 163.0,
+        "trunk_lean": 130.6
+      },
+      "phase_means": {
+        "run_up": {
+          "right_shoulder": 120.4,
+          "left_shoulder": 137.9,
+          "right_knee": 142.0,
+          "left_knee": 133.3,
+          "trunk_lean": 106.6
+        },
+        "load": {
+          "left_elbow": 125.6,
+          "left_shoulder": 67.0,
+          "right_knee": 140.3,
+          "left_knee": 175.0,
+          "trunk_lean": 77.2
+        },
+        "delivery_stride": {
+          "left_elbow": 160.9,
+          "left_shoulder": 165.8,
+          "right_knee": 68.4,
+          "trunk_lean": 42.9
+        },
+        "release": {
+          "right_elbow": 168.0,
+          "left_elbow": 152.9,
+          "right_shoulder": 166.3,
+          "left_shoulder": 152.5,
+          "trunk_lean": 72.0
+        },
+        "follow_through": {
+          "right_elbow": 138.4,
+          "left_elbow": 119.6,
+          "right_shoulder": 89.6,
+          "left_shoulder": 53.3,
+          "right_knee": 85.9,
+          "left_knee": 133.6,
+          "trunk_lean": 95.9
+        }
+      },
+      "progression_load_to_release": {
+        "left_elbow": 27.3,
+        "left_shoulder": 85.5,
+        "trunk_lean": -5.2
+      }
+    },
+    {
+      "delivery_num": 23,
+      "timestamp_sec": 299.52,
+      "frame_count": 88,
+      "release_reliability": 0.517,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 177.7,
+        "right_shoulder": 158.3,
+        "trunk_lean": 43.1
+      },
+      "phase_means": {
+        "load": {
+          "right_elbow": 163.6,
+          "left_elbow": 173.5,
+          "right_shoulder": 7.2,
+          "left_shoulder": 4.9,
+          "trunk_lean": 50.7
+        },
+        "delivery_stride": {
+          "right_elbow": 166.1,
+          "right_shoulder": 156.2,
+          "left_shoulder": 162.7,
+          "trunk_lean": 48.4
+        },
+        "release": {
+          "right_elbow": 177.7,
+          "right_shoulder": 158.3,
+          "trunk_lean": 51.5
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 14.1,
+        "right_shoulder": 151.1,
+        "trunk_lean": 0.8
+      }
+    },
+    {
+      "delivery_num": 24,
+      "timestamp_sec": 306.44,
+      "frame_count": 88,
+      "release_reliability": 0.584,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "trunk_lean": 82.0
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 117.7,
+          "left_elbow": 145.2,
+          "right_shoulder": 88.7,
+          "left_shoulder": 97.6,
+          "left_knee": 52.3,
+          "trunk_lean": 40.4
+        },
+        "load": {
+          "right_elbow": 132.6,
+          "left_elbow": 114.1,
+          "right_shoulder": 114.7,
+          "left_shoulder": 68.8,
+          "trunk_lean": 57.9
+        },
+        "delivery_stride": {
+          "trunk_lean": 46.9
+        },
+        "release": {
+          "trunk_lean": 88.8
+        },
+        "follow_through": {
+          "left_shoulder": 41.9,
+          "trunk_lean": 77.5
+        }
+      },
+      "progression_load_to_release": {
+        "trunk_lean": 30.9
+      }
+    },
+    {
+      "delivery_num": 25,
+      "timestamp_sec": 346.04,
+      "frame_count": 88,
+      "release_reliability": 0.581,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 117.7,
+        "right_shoulder": 137.4,
+        "left_shoulder": 31.6,
+        "trunk_lean": 93.2
+      },
+      "phase_means": {
+        "run_up": {
+          "trunk_lean": 47.1
+        },
+        "load": {
+          "right_elbow": 124.2,
+          "left_elbow": 137.9,
+          "right_shoulder": 134.9,
+          "left_shoulder": 38.1,
+          "trunk_lean": 67.4
+        },
+        "delivery_stride": {
+          "left_elbow": 152.7,
+          "left_shoulder": 49.3,
+          "trunk_lean": 83.1
+        },
+        "release": {
+          "right_elbow": 138.1,
+          "left_elbow": 150.1,
+          "right_shoulder": 144.3,
+          "left_shoulder": 35.0,
+          "trunk_lean": 86.3
+        },
+        "follow_through": {
+          "right_elbow": 136.1,
+          "left_elbow": 127.1,
+          "right_shoulder": 119.5,
+          "left_shoulder": 66.2,
+          "trunk_lean": 51.0
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 13.9,
+        "left_elbow": 12.2,
+        "right_shoulder": 9.4,
+        "left_shoulder": -3.1,
+        "trunk_lean": 18.9
+      }
+    },
+    {
+      "delivery_num": 26,
+      "timestamp_sec": 350.04,
+      "frame_count": 88,
+      "release_reliability": 0.672,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 130.8,
+        "left_elbow": 149.6,
+        "right_shoulder": 74.5,
+        "left_shoulder": 67.5,
+        "trunk_lean": 86.7
+      },
+      "phase_means": {
+        "run_up": {
+          "left_elbow": 124.0,
+          "left_shoulder": 105.9,
+          "trunk_lean": 26.2
+        },
+        "load": {
+          "right_elbow": 81.9,
+          "left_elbow": 144.2,
+          "right_shoulder": 48.8,
+          "left_shoulder": 71.9,
+          "trunk_lean": 31.3
+        },
+        "delivery_stride": {
+          "right_elbow": 137.8,
+          "left_elbow": 98.7,
+          "right_shoulder": 103.3,
+          "left_shoulder": 20.5,
+          "trunk_lean": 63.5
+        },
+        "release": {
+          "right_elbow": 115.9,
+          "left_elbow": 126.2,
+          "right_shoulder": 85.2,
+          "left_shoulder": 48.6,
+          "trunk_lean": 76.7
+        },
+        "follow_through": {
+          "right_elbow": 119.2,
+          "left_elbow": 126.4,
+          "right_shoulder": 53.3,
+          "left_shoulder": 69.1,
+          "trunk_lean": 67.4
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 34.0,
+        "left_elbow": -18.0,
+        "right_shoulder": 36.4,
+        "left_shoulder": -23.3,
+        "trunk_lean": 45.4
+      }
+    },
+    {
+      "delivery_num": 27,
+      "timestamp_sec": 352.76,
+      "frame_count": 88,
+      "release_reliability": 0.687,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 130.9,
+        "left_elbow": 127.7,
+        "right_shoulder": 136.0,
+        "left_shoulder": 75.3,
+        "trunk_lean": 56.9
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 148.5,
+          "left_elbow": 116.9,
+          "right_shoulder": 59.0,
+          "left_shoulder": 64.2,
+          "trunk_lean": 70.8
+        },
+        "load": {
+          "right_elbow": 117.4,
+          "left_elbow": 122.9,
+          "right_shoulder": 106.5,
+          "left_shoulder": 71.5,
+          "trunk_lean": 68.6
+        },
+        "delivery_stride": {
+          "right_elbow": 155.6,
+          "left_elbow": 142.1,
+          "right_shoulder": 140.4,
+          "left_shoulder": 91.0,
+          "trunk_lean": 47.9
+        },
+        "release": {
+          "right_elbow": 143.7,
+          "left_elbow": 136.5,
+          "right_shoulder": 90.2,
+          "left_shoulder": 53.9,
+          "trunk_lean": 73.3
+        },
+        "follow_through": {
+          "left_elbow": 153.2,
+          "left_shoulder": 54.9,
+          "trunk_lean": 61.6
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 26.3,
+        "left_elbow": 13.6,
+        "right_shoulder": -16.3,
+        "left_shoulder": -17.6,
+        "trunk_lean": 4.7
+      }
+    },
+    {
+      "delivery_num": 28,
+      "timestamp_sec": 373.12,
+      "frame_count": 88,
+      "release_reliability": 0.649,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 143.3,
+        "right_shoulder": 79.2,
+        "left_shoulder": 34.7,
+        "left_knee": 123.9,
+        "left_hip": 147.9,
+        "trunk_lean": 101.3
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 104.2,
+          "left_elbow": 98.2,
+          "right_shoulder": 64.1,
+          "left_shoulder": 55.2,
+          "right_knee": 89.1,
+          "left_knee": 102.8,
+          "trunk_lean": 71.8
+        },
+        "load": {
+          "right_elbow": 155.9,
+          "right_shoulder": 91.8,
+          "left_shoulder": 29.5,
+          "right_knee": 84.8,
+          "left_knee": 98.4,
+          "trunk_lean": 100.5
+        },
+        "delivery_stride": {
+          "right_elbow": 148.7,
+          "right_shoulder": 77.6,
+          "left_shoulder": 56.2,
+          "right_knee": 102.6,
+          "left_knee": 127.1,
+          "trunk_lean": 95.5
+        },
+        "release": {
+          "right_elbow": 145.4,
+          "right_shoulder": 70.1,
+          "left_shoulder": 34.7,
+          "left_knee": 124.2,
+          "trunk_lean": 72.7
+        },
+        "follow_through": {
+          "right_shoulder": 95.1,
+          "trunk_lean": 59.9
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": -10.5,
+        "right_shoulder": -21.7,
+        "left_shoulder": 5.2,
+        "left_knee": 25.8,
+        "trunk_lean": -27.8
+      }
+    },
+    {
+      "delivery_num": 29,
+      "timestamp_sec": 380.48,
+      "frame_count": 88,
+      "release_reliability": 0.575,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "left_elbow": 117.8,
+        "left_shoulder": 61.7,
+        "trunk_lean": 126.2
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 121.7,
+          "left_elbow": 112.2,
+          "right_shoulder": 67.5,
+          "left_shoulder": 47.1,
+          "trunk_lean": 80.6
+        },
+        "load": {
+          "right_elbow": 121.7,
+          "left_elbow": 101.3,
+          "right_shoulder": 80.9,
+          "left_shoulder": 78.2,
+          "trunk_lean": 66.6
+        },
+        "delivery_stride": {
+          "right_elbow": 130.2,
+          "right_shoulder": 116.6,
+          "left_shoulder": 62.3,
+          "trunk_lean": 102.2
+        },
+        "release": {
+          "right_elbow": 173.7,
+          "left_elbow": 129.5,
+          "right_shoulder": 88.1,
+          "left_shoulder": 103.5,
+          "trunk_lean": 55.7
+        },
+        "follow_through": {
+          "right_elbow": 135.5,
+          "left_elbow": 119.0,
+          "right_shoulder": 101.5,
+          "left_shoulder": 49.7,
+          "trunk_lean": 103.6
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 52.0,
+        "left_elbow": 28.2,
+        "right_shoulder": 7.2,
+        "left_shoulder": 25.3,
+        "trunk_lean": -10.9
+      }
+    },
+    {
+      "delivery_num": 30,
+      "timestamp_sec": 387.8,
+      "frame_count": 88,
+      "release_reliability": 0.641,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 156.4,
+        "right_shoulder": 169.2,
+        "trunk_lean": 147.2
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 104.8,
+          "left_elbow": 140.8,
+          "right_shoulder": 94.3,
+          "left_shoulder": 58.0,
+          "right_knee": 130.1,
+          "left_knee": 131.2,
+          "trunk_lean": 70.9
+        },
+        "load": {
+          "right_elbow": 104.6,
+          "left_elbow": 105.3,
+          "right_shoulder": 50.9,
+          "left_shoulder": 33.5,
+          "right_knee": 89.6,
+          "left_knee": 73.0,
+          "trunk_lean": 77.1
+        },
+        "delivery_stride": {
+          "right_elbow": 167.9,
+          "right_shoulder": 171.7,
+          "left_shoulder": 49.6,
+          "trunk_lean": 159.2
+        },
+        "release": {
+          "right_elbow": 163.7,
+          "right_shoulder": 153.1,
+          "trunk_lean": 130.8
+        },
+        "follow_through": {
+          "right_elbow": 150.8,
+          "right_shoulder": 64.1,
+          "left_shoulder": 116.2,
+          "right_knee": 37.1,
+          "trunk_lean": 50.3
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 59.1,
+        "right_shoulder": 102.2,
+        "trunk_lean": 53.7
+      }
+    },
+    {
+      "delivery_num": 31,
+      "timestamp_sec": 401.16,
+      "frame_count": 88,
+      "release_reliability": 0.558,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "left_shoulder": 143.0,
+        "trunk_lean": 59.2
+      },
+      "phase_means": {
+        "load": {
+          "left_shoulder": 70.7,
+          "trunk_lean": 55.0
+        },
+        "delivery_stride": {
+          "left_shoulder": 73.9,
+          "trunk_lean": 66.1
+        },
+        "release": {
+          "left_shoulder": 116.0,
+          "trunk_lean": 59.9
+        },
+        "follow_through": {
+          "right_elbow": 138.4,
+          "right_shoulder": 93.5,
+          "right_knee": 105.4,
+          "left_knee": 132.7,
+          "trunk_lean": 119.3
+        }
+      },
+      "progression_load_to_release": {
+        "left_shoulder": 45.3,
+        "trunk_lean": 4.9
+      }
+    },
+    {
+      "delivery_num": 32,
+      "timestamp_sec": 406.24,
+      "frame_count": 88,
+      "release_reliability": 0.562,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 169.8
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 112.7,
+          "left_elbow": 107.4,
+          "right_shoulder": 89.2,
+          "left_shoulder": 74.1,
+          "right_knee": 139.3,
+          "left_knee": 164.0,
+          "trunk_lean": 86.8
+        },
+        "load": {
+          "right_elbow": 156.1,
+          "left_elbow": 134.2,
+          "right_shoulder": 110.0,
+          "left_shoulder": 91.3,
+          "trunk_lean": 91.7
+        },
+        "delivery_stride": {
+          "right_elbow": 167.5
+        },
+        "release": {
+          "right_elbow": 168.9
+        },
+        "follow_through": {
+          "right_elbow": 163.0
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 12.8
+      }
+    },
+    {
+      "delivery_num": 33,
+      "timestamp_sec": 423.56,
+      "frame_count": 88,
+      "release_reliability": 0.69,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 119.7,
+        "left_elbow": 111.7,
+        "right_shoulder": 122.3,
+        "left_shoulder": 56.5,
+        "trunk_lean": 71.4
+      },
+      "phase_means": {
+        "run_up": {},
+        "load": {
+          "left_elbow": 131.2,
+          "right_shoulder": 41.3,
+          "left_shoulder": 80.7,
+          "trunk_lean": 86.3
+        },
+        "delivery_stride": {
+          "right_elbow": 136.3,
+          "left_elbow": 126.0,
+          "right_shoulder": 132.4,
+          "left_shoulder": 81.2,
+          "trunk_lean": 65.1
+        },
+        "release": {
+          "right_elbow": 136.9,
+          "left_elbow": 114.1,
+          "right_shoulder": 128.9,
+          "left_shoulder": 65.2,
+          "trunk_lean": 69.4
+        },
+        "follow_through": {
+          "right_elbow": 137.5,
+          "left_elbow": 118.5,
+          "right_shoulder": 82.3,
+          "left_shoulder": 109.6,
+          "trunk_lean": 80.6
+        }
+      },
+      "progression_load_to_release": {
+        "left_elbow": -17.1,
+        "right_shoulder": 87.6,
+        "left_shoulder": -15.5,
+        "trunk_lean": -16.9
+      }
+    },
+    {
+      "delivery_num": 34,
+      "timestamp_sec": 434.64,
+      "frame_count": 88,
+      "release_reliability": 0.328,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {},
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 121.3,
+          "left_elbow": 127.6,
+          "right_shoulder": 71.4,
+          "left_shoulder": 48.5,
+          "trunk_lean": 91.7
+        },
+        "load": {
+          "left_elbow": 148.7,
+          "left_shoulder": 12.9,
+          "trunk_lean": 94.4
+        }
+      },
+      "progression_load_to_release": {}
+    },
+    {
+      "delivery_num": 35,
+      "timestamp_sec": 443.76,
+      "frame_count": 88,
+      "release_reliability": 0.615,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 132.8,
+        "right_shoulder": 108.7,
+        "trunk_lean": 56.1
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 108.0,
+          "left_elbow": 133.8,
+          "right_shoulder": 46.8,
+          "left_shoulder": 42.5,
+          "trunk_lean": 69.5
+        },
+        "load": {
+          "right_elbow": 125.7,
+          "right_shoulder": 139.4,
+          "trunk_lean": 92.9
+        },
+        "delivery_stride": {
+          "right_elbow": 146.2,
+          "right_shoulder": 134.5,
+          "trunk_lean": 64.6
+        },
+        "release": {
+          "right_elbow": 147.0,
+          "right_shoulder": 126.0,
+          "trunk_lean": 56.7
+        },
+        "follow_through": {
+          "right_elbow": 124.4,
+          "left_elbow": 127.0,
+          "right_shoulder": 67.3,
+          "left_shoulder": 57.3,
+          "trunk_lean": 64.6
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 21.3,
+        "right_shoulder": -13.4,
+        "trunk_lean": -36.2
+      }
+    },
+    {
+      "delivery_num": 36,
+      "timestamp_sec": 454.6,
+      "frame_count": 88,
+      "release_reliability": 0.595,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 166.1,
+        "left_elbow": 169.0,
+        "right_shoulder": 169.9,
+        "left_shoulder": 177.1,
+        "trunk_lean": 112.2
+      },
+      "phase_means": {
+        "run_up": {
+          "left_elbow": 144.5,
+          "left_shoulder": 91.5,
+          "left_knee": 117.0,
+          "trunk_lean": 95.5
+        },
+        "load": {
+          "right_elbow": 114.7,
+          "left_elbow": 116.1,
+          "right_shoulder": 30.2,
+          "left_shoulder": 42.1,
+          "trunk_lean": 99.2
+        },
+        "delivery_stride": {
+          "right_elbow": 163.7,
+          "left_elbow": 115.8,
+          "right_shoulder": 174.3,
+          "left_shoulder": 133.7,
+          "trunk_lean": 128.3
+        },
+        "release": {
+          "right_elbow": 166.1,
+          "left_elbow": 152.9,
+          "right_shoulder": 169.9,
+          "left_shoulder": 134.9,
+          "trunk_lean": 64.1
+        },
+        "follow_through": {
+          "right_elbow": 163.1,
+          "left_elbow": 130.1,
+          "right_shoulder": 86.6,
+          "left_shoulder": 70.9,
+          "trunk_lean": 95.5
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 51.4,
+        "left_elbow": 36.8,
+        "right_shoulder": 139.7,
+        "left_shoulder": 92.8,
+        "trunk_lean": -35.1
+      }
+    },
+    {
+      "delivery_num": 37,
+      "timestamp_sec": 472.64,
+      "frame_count": 88,
+      "release_reliability": 0.7,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 153.3,
+        "right_shoulder": 97.9,
+        "trunk_lean": 76.0
+      },
+      "phase_means": {
+        "run_up": {
+          "right_shoulder": 50.2,
+          "left_shoulder": 72.4,
+          "right_knee": 156.2,
+          "left_knee": 159.1,
+          "trunk_lean": 70.1
+        },
+        "load": {
+          "right_elbow": 106.6,
+          "right_shoulder": 94.2,
+          "trunk_lean": 72.2
+        },
+        "delivery_stride": {
+          "right_elbow": 137.5,
+          "right_shoulder": 113.1,
+          "trunk_lean": 82.8
+        },
+        "release": {
+          "right_elbow": 157.6,
+          "right_shoulder": 93.4,
+          "trunk_lean": 81.2
+        },
+        "follow_through": {
+          "right_elbow": 130.5,
+          "right_shoulder": 78.3,
+          "left_shoulder": 89.2,
+          "trunk_lean": 81.3
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 51.0,
+        "right_shoulder": -0.8,
+        "trunk_lean": 9.0
+      }
+    },
+    {
+      "delivery_num": 38,
+      "timestamp_sec": 478.68,
+      "frame_count": 88,
+      "release_reliability": 0.618,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 148.7,
+        "right_shoulder": 126.1,
+        "trunk_lean": 69.8
+      },
+      "phase_means": {
+        "load": {
+          "trunk_lean": 52.6
+        },
+        "delivery_stride": {
+          "trunk_lean": 73.1
+        },
+        "release": {
+          "right_elbow": 148.7,
+          "right_shoulder": 126.1,
+          "trunk_lean": 70.9
+        },
+        "follow_through": {
+          "right_elbow": 162.5,
+          "right_shoulder": 56.5,
+          "left_shoulder": 55.2,
+          "trunk_lean": 42.9
+        }
+      },
+      "progression_load_to_release": {
+        "trunk_lean": 18.3
+      }
+    },
+    {
+      "delivery_num": 39,
+      "timestamp_sec": 486.6,
+      "frame_count": 88,
+      "release_reliability": 0.585,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "trunk_lean": 53.5
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 154.5,
+          "left_elbow": 151.1,
+          "right_shoulder": 135.2,
+          "left_shoulder": 78.7,
+          "trunk_lean": 85.9
+        },
+        "load": {
+          "right_elbow": 145.1,
+          "left_elbow": 124.1,
+          "right_shoulder": 53.8,
+          "left_shoulder": 68.9,
+          "trunk_lean": 90.1
+        },
+        "delivery_stride": {
+          "left_shoulder": 68.5,
+          "trunk_lean": 76.7
+        },
+        "release": {
+          "trunk_lean": 71.9
+        },
+        "follow_through": {
+          "right_elbow": 135.0,
+          "right_shoulder": 125.2,
+          "left_shoulder": 133.8,
+          "trunk_lean": 80.4
+        }
+      },
+      "progression_load_to_release": {
+        "trunk_lean": -18.2
+      }
+    },
+    {
+      "delivery_num": 40,
+      "timestamp_sec": 491.12,
+      "frame_count": 88,
+      "release_reliability": 0.786,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 171.4,
+        "left_elbow": 159.2,
+        "right_shoulder": 128.2,
+        "left_shoulder": 139.5,
+        "trunk_lean": 83.9
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 135.0,
+          "left_elbow": 126.7,
+          "right_shoulder": 79.5,
+          "left_shoulder": 80.1,
+          "trunk_lean": 83.7
+        },
+        "load": {
+          "right_elbow": 157.5,
+          "left_elbow": 159.9,
+          "right_shoulder": 99.5,
+          "left_shoulder": 108.4,
+          "trunk_lean": 84.6
+        },
+        "delivery_stride": {
+          "right_elbow": 171.3,
+          "left_elbow": 165.0,
+          "right_shoulder": 125.0,
+          "left_shoulder": 134.7,
+          "trunk_lean": 88.3
+        },
+        "release": {
+          "right_elbow": 168.4,
+          "left_elbow": 161.3,
+          "right_shoulder": 120.4,
+          "left_shoulder": 137.1,
+          "trunk_lean": 84.4
+        },
+        "follow_through": {
+          "right_elbow": 138.1,
+          "left_elbow": 145.0,
+          "right_shoulder": 81.7,
+          "left_shoulder": 99.6,
+          "right_knee": 67.9,
+          "trunk_lean": 73.6
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": 10.9,
+        "left_elbow": 1.4,
+        "right_shoulder": 20.9,
+        "left_shoulder": 28.7,
+        "trunk_lean": -0.2
+      }
+    },
+    {
+      "delivery_num": 41,
+      "timestamp_sec": 496.16,
+      "frame_count": 88,
+      "release_reliability": 0.506,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "left_elbow": 142.4,
+        "left_shoulder": 99.3,
+        "trunk_lean": 117.6
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 124.2,
+          "left_elbow": 123.4,
+          "right_shoulder": 35.6,
+          "left_shoulder": 34.5,
+          "trunk_lean": 75.8
+        },
+        "load": {
+          "left_elbow": 136.4,
+          "left_shoulder": 77.2,
+          "trunk_lean": 72.8
+        },
+        "delivery_stride": {
+          "left_elbow": 163.7,
+          "left_shoulder": 92.7,
+          "trunk_lean": 100.6
+        },
+        "release": {
+          "left_elbow": 155.3,
+          "left_shoulder": 101.9,
+          "trunk_lean": 86.0
+        },
+        "follow_through": {
+          "left_elbow": 110.3
+        }
+      },
+      "progression_load_to_release": {
+        "left_elbow": 18.9,
+        "left_shoulder": 24.7,
+        "trunk_lean": 13.2
+      }
+    },
+    {
+      "delivery_num": 42,
+      "timestamp_sec": 505.72,
+      "frame_count": 88,
+      "release_reliability": 0.492,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "left_elbow": 160.9,
+        "left_shoulder": 129.1,
+        "trunk_lean": 50.3
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 143.8,
+          "left_elbow": 144.9,
+          "right_shoulder": 142.0,
+          "left_shoulder": 92.9,
+          "trunk_lean": 59.9
+        },
+        "load": {
+          "right_elbow": 145.3,
+          "left_elbow": 149.9,
+          "right_shoulder": 109.7,
+          "left_shoulder": 92.9,
+          "trunk_lean": 67.0
+        },
+        "release": {
+          "left_elbow": 160.9,
+          "left_shoulder": 118.9,
+          "trunk_lean": 65.2
+        },
+        "follow_through": {
+          "left_elbow": 141.8,
+          "left_shoulder": 82.7,
+          "trunk_lean": 61.8
+        }
+      },
+      "progression_load_to_release": {
+        "left_elbow": 11.0,
+        "left_shoulder": 26.0,
+        "trunk_lean": -1.8
+      }
+    },
+    {
+      "delivery_num": 43,
+      "timestamp_sec": 516.2,
+      "frame_count": 88,
+      "release_reliability": 0.49,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {},
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 133.7,
+          "left_elbow": 137.2,
+          "right_shoulder": 119.5,
+          "left_shoulder": 72.6,
+          "trunk_lean": 71.2
+        },
+        "load": {
+          "right_elbow": 115.6,
+          "left_elbow": 102.9,
+          "right_shoulder": 85.9,
+          "left_shoulder": 65.0,
+          "trunk_lean": 85.7
+        },
+        "delivery_stride": {},
+        "release": {},
+        "follow_through": {}
+      },
+      "progression_load_to_release": {}
+    },
+    {
+      "delivery_num": 44,
+      "timestamp_sec": 537.88,
+      "frame_count": 88,
+      "release_reliability": 0.679,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "left_elbow": 164.1,
+        "left_shoulder": 72.8,
+        "trunk_lean": 66.4
+      },
+      "phase_means": {
+        "run_up": {
+          "left_elbow": 153.4,
+          "left_shoulder": 123.8,
+          "right_knee": 114.6,
+          "left_knee": 111.8,
+          "trunk_lean": 25.9
+        },
+        "load": {
+          "left_elbow": 141.9,
+          "left_shoulder": 106.2,
+          "left_knee": 21.7,
+          "trunk_lean": 50.8
+        },
+        "delivery_stride": {
+          "left_elbow": 164.8,
+          "left_shoulder": 70.1,
+          "trunk_lean": 51.4
+        },
+        "release": {
+          "left_elbow": 165.0,
+          "left_shoulder": 79.8,
+          "trunk_lean": 62.6
+        },
+        "follow_through": {
+          "right_elbow": 154.6,
+          "left_elbow": 148.9,
+          "right_shoulder": 115.9,
+          "left_shoulder": 85.1,
+          "trunk_lean": 74.5
+        }
+      },
+      "progression_load_to_release": {
+        "left_elbow": 23.1,
+        "left_shoulder": -26.4,
+        "trunk_lean": 11.8
+      }
+    },
+    {
+      "delivery_num": 45,
+      "timestamp_sec": 540.16,
+      "frame_count": 88,
+      "release_reliability": 0.59,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "left_elbow": 93.9,
+        "left_shoulder": 89.2,
+        "trunk_lean": 58.6
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 166.1,
+          "left_elbow": 158.1,
+          "right_shoulder": 145.1,
+          "left_shoulder": 87.2,
+          "trunk_lean": 75.5
+        },
+        "load": {
+          "right_elbow": 142.3,
+          "left_elbow": 138.9,
+          "right_shoulder": 84.6,
+          "left_shoulder": 74.8,
+          "trunk_lean": 82.4
+        },
+        "delivery_stride": {
+          "left_shoulder": 11.0,
+          "trunk_lean": 94.1
+        },
+        "release": {
+          "left_elbow": 93.9,
+          "left_shoulder": 89.2,
+          "trunk_lean": 79.8
+        },
+        "follow_through": {
+          "right_elbow": 94.2,
+          "left_elbow": 105.4,
+          "right_shoulder": 25.8,
+          "left_shoulder": 74.2,
+          "right_knee": 123.0,
+          "left_knee": 136.5,
+          "trunk_lean": 76.9
+        }
+      },
+      "progression_load_to_release": {
+        "left_elbow": -45.0,
+        "left_shoulder": 14.4,
+        "trunk_lean": -2.6
+      }
+    },
+    {
+      "delivery_num": 46,
+      "timestamp_sec": 545.72,
+      "frame_count": 88,
+      "release_reliability": 0.606,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 152.2,
+        "left_elbow": 155.3,
+        "right_shoulder": 133.4,
+        "left_shoulder": 60.9,
+        "trunk_lean": 95.4
+      },
+      "phase_means": {
+        "run_up": {
+          "left_elbow": 127.4,
+          "left_shoulder": 121.1,
+          "trunk_lean": 64.2
+        },
+        "load": {
+          "left_elbow": 149.7,
+          "left_shoulder": 73.3,
+          "trunk_lean": 64.3
+        },
+        "delivery_stride": {
+          "left_elbow": 163.6,
+          "left_shoulder": 64.9,
+          "trunk_lean": 73.2
+        },
+        "release": {
+          "right_elbow": 152.2,
+          "left_elbow": 162.7,
+          "right_shoulder": 133.4,
+          "left_shoulder": 68.3,
+          "trunk_lean": 91.4
+        },
+        "follow_through": {
+          "right_elbow": 138.2,
+          "left_elbow": 136.4,
+          "right_shoulder": 131.8,
+          "left_shoulder": 49.8,
+          "trunk_lean": 79.5
+        }
+      },
+      "progression_load_to_release": {
+        "left_elbow": 13.0,
+        "left_shoulder": -5.0,
+        "trunk_lean": 27.1
+      }
+    },
+    {
+      "delivery_num": 47,
+      "timestamp_sec": 557.24,
+      "frame_count": 88,
+      "release_reliability": 0.536,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "left_elbow": 137.6,
+        "left_shoulder": 151.4,
+        "trunk_lean": 93.6
+      },
+      "phase_means": {
+        "run_up": {
+          "left_elbow": 166.0,
+          "left_shoulder": 61.5,
+          "trunk_lean": 57.3
+        },
+        "load": {
+          "right_elbow": 140.5,
+          "left_elbow": 111.8,
+          "right_shoulder": 130.0,
+          "left_shoulder": 47.7,
+          "trunk_lean": 81.5
+        },
+        "delivery_stride": {
+          "right_elbow": 117.1,
+          "left_elbow": 107.9,
+          "right_shoulder": 99.5,
+          "left_shoulder": 64.8,
+          "trunk_lean": 120.9
+        },
+        "release": {
+          "left_elbow": 137.6,
+          "left_shoulder": 136.6,
+          "trunk_lean": 68.1
+        },
+        "follow_through": {}
+      },
+      "progression_load_to_release": {
+        "left_elbow": 25.8,
+        "left_shoulder": 88.9,
+        "trunk_lean": -13.4
+      }
+    },
+    {
+      "delivery_num": 48,
+      "timestamp_sec": 568.28,
+      "frame_count": 88,
+      "release_reliability": 0.491,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "trunk_lean": 90.8
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 130.2,
+          "left_elbow": 144.4,
+          "right_shoulder": 112.8,
+          "left_shoulder": 47.0,
+          "trunk_lean": 91.9
+        },
+        "load": {
+          "right_elbow": 108.6,
+          "right_shoulder": 100.8,
+          "trunk_lean": 83.8
+        },
+        "delivery_stride": {
+          "left_shoulder": 100.9,
+          "trunk_lean": 115.9
+        },
+        "release": {
+          "trunk_lean": 90.8
+        }
+      },
+      "progression_load_to_release": {
+        "trunk_lean": 7.0
+      }
+    },
+    {
+      "delivery_num": 49,
+      "timestamp_sec": 575.68,
+      "frame_count": 88,
+      "release_reliability": 0.606,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "left_elbow": 114.2,
+        "left_shoulder": 90.9,
+        "trunk_lean": 142.6
+      },
+      "phase_means": {
+        "run_up": {
+          "left_elbow": 171.2,
+          "left_shoulder": 98.3,
+          "trunk_lean": 72.4
+        },
+        "load": {
+          "right_elbow": 150.8,
+          "left_elbow": 135.7,
+          "right_shoulder": 153.8,
+          "left_shoulder": 41.2,
+          "trunk_lean": 64.4
+        },
+        "delivery_stride": {
+          "right_elbow": 150.4,
+          "left_elbow": 118.1,
+          "right_shoulder": 157.3,
+          "left_shoulder": 52.6,
+          "trunk_lean": 89.2
+        },
+        "release": {
+          "left_elbow": 119.5,
+          "left_shoulder": 122.0,
+          "trunk_lean": 88.9
+        },
+        "follow_through": {
+          "left_elbow": 121.9,
+          "right_shoulder": 27.2,
+          "left_shoulder": 71.6,
+          "left_knee": 114.5,
+          "trunk_lean": 109.8
+        }
+      },
+      "progression_load_to_release": {
+        "left_elbow": -16.2,
+        "left_shoulder": 80.8,
+        "trunk_lean": 24.5
+      }
+    },
+    {
+      "delivery_num": 50,
+      "timestamp_sec": 589.4,
+      "frame_count": 88,
+      "release_reliability": 0.503,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "trunk_lean": 119.5
+      },
+      "phase_means": {
+        "delivery_stride": {
+          "trunk_lean": 89.7
+        },
+        "release": {
+          "trunk_lean": 101.7
+        },
+        "follow_through": {
+          "right_elbow": 75.2,
+          "left_elbow": 135.4,
+          "right_shoulder": 38.7,
+          "left_shoulder": 76.6,
+          "right_knee": 105.1,
+          "left_knee": 128.0,
+          "trunk_lean": 64.3
+        }
+      },
+      "progression_load_to_release": {}
+    },
+    {
+      "delivery_num": 51,
+      "timestamp_sec": 613.08,
+      "frame_count": 88,
+      "release_reliability": 0.652,
+      "phases_detected": [
+        "follow_through",
+        "release",
+        "load",
+        "run_up",
+        "delivery_stride"
+      ],
+      "release_angles": {
+        "right_elbow": 132.7,
+        "left_elbow": 157.9,
+        "right_shoulder": 66.7,
+        "left_shoulder": 54.7,
+        "trunk_lean": 58.1
+      },
+      "phase_means": {
+        "run_up": {
+          "right_elbow": 139.9,
+          "left_elbow": 128.6,
+          "right_shoulder": 110.4,
+          "left_shoulder": 65.6,
+          "trunk_lean": 61.4
+        },
+        "load": {
+          "right_elbow": 142.9,
+          "left_elbow": 131.5,
+          "right_shoulder": 122.5,
+          "left_shoulder": 64.1,
+          "trunk_lean": 70.6
+        },
+        "delivery_stride": {
+          "right_elbow": 134.8,
+          "left_elbow": 123.2,
+          "right_shoulder": 113.6,
+          "left_shoulder": 78.8,
+          "trunk_lean": 62.5
+        },
+        "release": {
+          "right_elbow": 130.6,
+          "left_elbow": 114.3,
+          "right_shoulder": 67.1,
+          "left_shoulder": 41.5,
+          "trunk_lean": 82.7
+        },
+        "follow_through": {
+          "right_elbow": 115.2,
+          "left_elbow": 95.9,
+          "right_shoulder": 79.1,
+          "left_shoulder": 51.0,
+          "trunk_lean": 78.1
+        }
+      },
+      "progression_load_to_release": {
+        "right_elbow": -12.3,
+        "left_elbow": -17.2,
+        "right_shoulder": -55.4,
+        "left_shoulder": -22.6,
+        "trunk_lean": 12.1
+      }
+    }
+  ]
+}

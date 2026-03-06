@@ -1,0 +1,51 @@
+CRICKET BOWLING BIOMECHANICAL SUMMARY
+Video: lbw1.mp4
+Detection: 19/35 frames (54.3%) — MODERATE
+Phases detected: load, delivery_stride, release
+
+── KEY FRAME ANGLES ──
+
+  RELEASE (frame 34, 1322ms):
+    right_shoulder                127.3°
+
+  PEAK LOAD (frame 12, 467ms):
+    right_elbow                   134.8°
+    left_elbow                    147.2°
+    right_shoulder                 86.6°
+    left_shoulder                  39.9°
+    trunk_lean                     95.4°
+
+  DELIVERY STRIDE (frame 21, 817ms):
+    right_elbow                   147.9°
+    left_elbow                    168.8°
+    right_shoulder                 64.3°
+    left_shoulder                  51.2°
+    trunk_lean                    104.1°
+
+── MOVEMENT TRENDS (range of motion across full action) ──
+
+  right_elbow:
+    Range of motion: 131.5°  (peak 170.8° → trough 39.2°)
+    By phase: load: 155.9°  |  delivery_stride: 119.6°
+
+  left_elbow:
+    Range of motion: 154.6°  (peak 176.9° → trough 22.3°)
+    By phase: load: 166.4°  |  delivery_stride: 129.1°
+
+  right_shoulder:
+    Range of motion: 135.1°  (peak 141.5° → trough 6.4°)
+    By phase: load: 49.1°  |  delivery_stride: 58.4°  |  release: 127.3°
+
+  left_shoulder:
+    Range of motion: 126.2°  (peak 133.5° → trough 7.3°)
+    By phase: load: 31.1°  |  delivery_stride: 65.1°
+
+  trunk_lean:
+    Range of motion: 86.5°  (peak 111.5° → trough 25.0°)
+    By phase: load: 71.1°  |  delivery_stride: 87.8°
+
+── ELITE COMPARISON (at release) ──
+  ⬆️ right_shoulder                127.3°  (elite: 85-115°)  12° above elite maximum
+
+── AUTOMATED FLAGS ──
+  ✅ [general] No major biomechanical flags detected in this sequence.

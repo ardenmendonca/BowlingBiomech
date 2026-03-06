@@ -1,0 +1,184 @@
+{
+  "video": "lbw1.mp4",
+  "detection_quality": {
+    "total_frames": 35,
+    "detected_frames": 19,
+    "detection_rate_pct": 54.3,
+    "quality": "moderate"
+  },
+  "phases_detected": [
+    "load",
+    "delivery_stride",
+    "release"
+  ],
+  "key_frame_angles": {
+    "release": {
+      "frame_idx": 34,
+      "timestamp_ms": 1322.22,
+      "angles": {
+        "right_shoulder": 127.32
+      }
+    },
+    "peak_load": {
+      "frame_idx": 12,
+      "timestamp_ms": 466.67,
+      "angles": {
+        "right_elbow": 134.77,
+        "left_elbow": 147.19,
+        "right_shoulder": 86.63,
+        "left_shoulder": 39.86,
+        "trunk_lean": 95.44
+      }
+    },
+    "delivery_stride": {
+      "frame_idx": 21,
+      "timestamp_ms": 816.67,
+      "angles": {
+        "right_elbow": 147.86,
+        "left_elbow": 168.85,
+        "right_shoulder": 64.29,
+        "left_shoulder": 51.2,
+        "trunk_lean": 104.07
+      }
+    }
+  },
+  "movement_trends": {
+    "right_elbow": {
+      "phase_means": {
+        "load": 155.9,
+        "delivery_stride": 119.6
+      },
+      "range_of_motion": 131.5,
+      "peak": 170.8,
+      "trough": 39.2
+    },
+    "left_elbow": {
+      "phase_means": {
+        "load": 166.4,
+        "delivery_stride": 129.1
+      },
+      "range_of_motion": 154.6,
+      "peak": 176.9,
+      "trough": 22.3
+    },
+    "right_shoulder": {
+      "phase_means": {
+        "load": 49.1,
+        "delivery_stride": 58.4,
+        "release": 127.3
+      },
+      "range_of_motion": 135.1,
+      "peak": 141.5,
+      "trough": 6.4
+    },
+    "left_shoulder": {
+      "phase_means": {
+        "load": 31.1,
+        "delivery_stride": 65.1
+      },
+      "range_of_motion": 126.2,
+      "peak": 133.5,
+      "trough": 7.3
+    },
+    "trunk_lean": {
+      "phase_means": {
+        "load": 71.1,
+        "delivery_stride": 87.8
+      },
+      "range_of_motion": 86.5,
+      "peak": 111.5,
+      "trough": 25.0
+    }
+  },
+  "elite_comparison": [
+    {
+      "joint": "right_shoulder",
+      "value": 127.32,
+      "elite_range": "85-115\u00b0",
+      "status": "above_elite",
+      "gap": "12\u00b0 above elite maximum",
+      "note": "high arm action"
+    }
+  ],
+  "automated_findings": [
+    {
+      "severity": "ok",
+      "category": "general",
+      "finding": "No major biomechanical flags detected in this sequence."
+    }
+  ],
+  "phase_stats": {
+    "load": {
+      "right_elbow": {
+        "mean": 155.9,
+        "min": 134.8,
+        "max": 170.8,
+        "std": 13.8
+      },
+      "left_elbow": {
+        "mean": 166.3,
+        "min": 147.2,
+        "max": 176.9,
+        "std": 11.4
+      },
+      "right_shoulder": {
+        "mean": 49.1,
+        "min": 6.4,
+        "max": 86.6,
+        "std": 30.5
+      },
+      "left_shoulder": {
+        "mean": 31.1,
+        "min": 17.4,
+        "max": 39.9,
+        "std": 8.8
+      },
+      "trunk_lean": {
+        "mean": 71.1,
+        "min": 25.0,
+        "max": 95.4,
+        "std": 28.4
+      }
+    },
+    "delivery_stride": {
+      "right_elbow": {
+        "mean": 119.6,
+        "min": 39.3,
+        "max": 154.4,
+        "std": 39.1
+      },
+      "left_elbow": {
+        "mean": 129.1,
+        "min": 22.3,
+        "max": 168.9,
+        "std": 40.4
+      },
+      "right_shoulder": {
+        "mean": 58.4,
+        "min": 15.4,
+        "max": 141.5,
+        "std": 37.7
+      },
+      "left_shoulder": {
+        "mean": 65.1,
+        "min": 7.4,
+        "max": 133.5,
+        "std": 44.4
+      },
+      "trunk_lean": {
+        "mean": 87.8,
+        "min": 58.4,
+        "max": 111.5,
+        "std": 17.3
+      }
+    },
+    "release": {
+      "right_shoulder": {
+        "mean": 127.3,
+        "min": 127.3,
+        "max": 127.3,
+        "std": 0.0
+      }
+    }
+  }
+}
