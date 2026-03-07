@@ -1,6 +1,6 @@
 # Bowling throw Analysis
 
-MediaPipe-based biomechanical analysis of cricket bowling. Detects deliveries, extracts joint angles per phase, and generates LLM coaching reports.
+MediaPipe-based biomechanical analysis of bowling. Detects deliveries, extracts joint angles per phase, and generates LLM coaching reports.
 
 ---
 
